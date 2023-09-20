@@ -1,0 +1,3173 @@
+[
+    {
+        "corrections": [
+            {
+                "start": 1,
+                "end": 1,
+                "error": "-",
+                "correct": "the",
+                "explanation": "This sentence is talking about a specific world (modern digital), and so you need to use the definite article, \"the\"."
+            },
+            {
+                "start": 12,
+                "end": 13,
+                "error": "lives",
+                "correct": "life",
+                "explanation": "This sentence is talking about life in general, and so it should not be pluralised here."
+            },
+            {
+                "start": 15,
+                "end": 16,
+                "error": "Smart",
+                "correct": "smart",
+                "explanation": "\"Smart phone\" is not a proper noun, so \"smart\" does not need a capital letter."
+            }
+        ],
+        "id": 4,
+        "incorrect sentence": "In modern digital world , electronic products are widely used in daily lives such as Smart phones , computers and etc .",
+        "correct sentence": "In the modern digital world , electronic products are widely used in daily life such as smart phones , computers and etc ."
+    },
+    {
+        "corrections": [
+            {
+                "start": 1,
+                "end": 2,
+                "error": "work",
+                "correct": "the workplace",
+                "explanation": "It is common to say \"In the workplace\" when referring to people's places of work in general."
+            },
+            {
+                "start": 1,
+                "end": 3,
+                "error": "work places",
+                "correct": "-",
+                "explanation": "None"
+            },
+            {
+                "start": 6,
+                "end": 6,
+                "error": "-",
+                "correct": ",",
+                "explanation": "Add a comma to separate the clauses."
+            },
+            {
+                "start": 9,
+                "end": 9,
+                "error": "-",
+                "correct": ",",
+                "explanation": "Add a comma to separate the clauses."
+            },
+            {
+                "start": 13,
+                "end": 15,
+                "error": "use to",
+                "correct": "-",
+                "explanation": "The verb \"use\" seems redundant here as the sentence is talking about productivity, so you only need \"to increase\" to fit with productivity, and it is tacitly understood that the way they do that is through their use."
+            }
+        ],
+        "id": 11,
+        "incorrect sentence": "In work places , electronic devices such as computers are also inevitable to use to increase the productivity of the corporation .",
+        "correct sentence": "In the workplace electronic devices , such as computers , are also inevitable to increase the productivity of the corporation ."
+    },
+    {
+        "corrections": [
+            {
+                "start": 9,
+                "end": 11,
+                "error": "is being",
+                "correct": "has been",
+                "explanation": "\"Is being noticed\" implies that people have begun to take notice and it is still ongoing, but the sentence is saying that this is something that has already happened, so use \"has been\"."
+            }
+        ],
+        "id": 14,
+        "incorrect sentence": "The convenience and high efficiency of using electronic products is being noticed by people worldwide .",
+        "correct sentence": "The convenience and high efficiency of using electronic products has been noticed by people worldwide ."
+    },
+    {
+        "corrections": [
+            {
+                "start": 2,
+                "end": 2,
+                "error": "-",
+                "correct": "have",
+                "explanation": "Here, \"have\" is an auxiliary verb that needs to go with \"started\" so you know that the action (wonder) has begun, and is still ongoing, i.e. people are still wondering about this."
+            },
+            {
+                "start": 4,
+                "end": 5,
+                "error": "think",
+                "correct": "wonder",
+                "explanation": "\"Wonder\" means to consider something with curiosity, which would be a more appropriate term to use than just \"think\"."
+            },
+            {
+                "start": 9,
+                "end": 16,
+                "error": "be further operated to more advanced utilization",
+                "correct": "-",
+                "explanation": "This phrase doesn't really make sense, and the main gist of your sentence gets across even without it, so I suggest you remove it for clarity."
+            },
+            {
+                "start": 17,
+                "end": 23,
+                "error": "replace human beings for better performances",
+                "correct": "outperform human beings",
+                "explanation": "This phrase is a bit wordy and doesn't really make sense, it would be better to replace it with \"outperform\", which means the same thing, for brevity and clarity."
+            }
+        ],
+        "id": 20,
+        "incorrect sentence": "Some people started to think if electronic products can be further operated to more advanced utilization and replace human beings for better performances .",
+        "correct sentence": "Some people have started to wonder if electronic products can and outperform human beings ."
+    },
+    {
+        "corrections": [
+            {
+                "start": 2,
+                "end": 2,
+                "error": "-",
+                "correct": ",",
+                "explanation": "Add a comma to separate the clauses."
+            },
+            {
+                "start": 9,
+                "end": 9,
+                "error": "-",
+                "correct": ",",
+                "explanation": "Add a comma to separate the clauses."
+            },
+            {
+                "start": 11,
+                "end": 13,
+                "error": "type of",
+                "correct": "-",
+                "explanation": "\"Type of\" and \"example\" are basically saying the same thing, so this is needless repetition. In this sentence, it would be better to keep \"example\"."
+            },
+            {
+                "start": 13,
+                "end": 14,
+                "error": "examples",
+                "correct": "example",
+                "explanation": "You are talking about one specific example (surveillance technology) so \"example\" should be singular."
+            },
+            {
+                "start": 15,
+                "end": 18,
+                "error": "has currently been",
+                "correct": "is being currently",
+                "explanation": "Use \"is being currently implemented\" to indicate that it is an ongoing process."
+            },
+            {
+                "start": 15,
+                "end": 18,
+                "error": "has currently been",
+                "correct": "-",
+                "explanation": "None"
+            }
+        ],
+        "id": 28,
+        "incorrect sentence": "Surveillance technology such as RFID ( radio-frequency identification ) is one type of examples that has currently been implemented .",
+        "correct sentence": "Surveillance technology , such as RFID ( radio-frequency identification ) , is one example that is being currently"
+    },
+    {
+        "corrections": [
+            {
+                "start": 7,
+                "end": 9,
+                "error": "that if",
+                "correct": "whether",
+                "explanation": "Use \"whether\" to present the alternatives, \"should be used\" or \"not used\"."
+            },
+            {
+                "start": 7,
+                "end": 9,
+                "error": "that if",
+                "correct": "-",
+                "explanation": "None"
+            },
+            {
+                "start": 11,
+                "end": 11,
+                "error": "-",
+                "correct": ",",
+                "explanation": "Add a comma to separate the clauses."
+            },
+            {
+                "start": 18,
+                "end": 18,
+                "error": "-",
+                "correct": ",",
+                "explanation": "Add a comma to separate the clauses."
+            },
+            {
+                "start": 23,
+                "end": 23,
+                "error": "-",
+                "correct": "used",
+                "explanation": "None "
+            }
+        ],
+        "id": 35,
+        "incorrect sentence": "In this essay , I will discuss that if surveillance technology such as RFID ( radio-frequency identification ) should be used or not to track people .",
+        "correct sentence": "In this essay , I will discuss whether , such as RFID ( radio-frequency identification ) , should be used or not used to track people ."
+    },
+    {
+        "corrections": [
+            {
+                "start": 11,
+                "end": 11,
+                "error": "-",
+                "correct": ",",
+                "explanation": "Add a comma to separate the clauses."
+            },
+            {
+                "start": 14,
+                "end": 14,
+                "error": "-",
+                "correct": ",",
+                "explanation": "Add a comma to separate the clauses."
+            }
+        ],
+        "id": 39,
+        "incorrect sentence": "Personally , I agree to a large extent that surveillance technology such as RFID should be used to track people .",
+        "correct sentence": "Personally , I agree to a large extent that surveillance technology , such as RFID , should be used to track people ."
+    },
+    {
+        "corrections": [
+            {
+                "start": 2,
+                "end": 2,
+                "error": "-",
+                "correct": ",",
+                "explanation": "Add a comma to separate the clauses."
+            },
+            {
+                "start": 5,
+                "end": 5,
+                "error": "-",
+                "correct": ",",
+                "explanation": "Add a comma to separate the clauses."
+            },
+            {
+                "start": 10,
+                "end": 11,
+                "error": "with",
+                "correct": "without",
+                "explanation": "\"With the absence of\" is a bit wordy and doesn't sound natural. Replace all of it with just \"without\" to convey the same point that you don't need operators."
+            },
+            {
+                "start": 11,
+                "end": 14,
+                "error": "the absence of",
+                "correct": "-",
+                "explanation": "None "
+            },
+            {
+                "start": 17,
+                "end": 18,
+                "error": "done",
+                "correct": "-",
+                "explanation": "Unnecessary word. \"Track\" and \"done\" are both verbs, but they are in different tenses, \"track\" is present tense and \"done\" is past tense. It doesn't make sense in English to pair these two verbs together in this way. \"Track\", meaning to observe or monitor, is the main verb that should be used here, and \"done\" is grammatically incorrect and does not provide any additional meaning, so it should be removed."
+            }
+        ],
+        "id": 46,
+        "incorrect sentence": "Surveillance technology such as RFID can be operated twenty-four hours with the absence of operators to track done every detail about human activities .",
+        "correct sentence": "Surveillance technology , such as RFID , can be operated twenty-four hours without operators to track every detail about human activities ."
+    },
+    {
+        "corrections": [
+            {
+                "start": 4,
+                "end": 4,
+                "error": "-",
+                "correct": "the",
+                "explanation": "Missing article. The sentence is discussing military establishments, and so it therefore requires an article."
+            },
+            {
+                "start": 4,
+                "end": 5,
+                "error": "militaries",
+                "correct": "military ,",
+                "explanation": "The sentence is talking about the military in general, it should be singular."
+            },
+            {
+                "start": 5,
+                "end": 10,
+                "error": "which are of high importance",
+                "correct": "-",
+                "explanation": "This clause seems entirely optional and does not add any new information or change the nuance of other words in the sentence, so I suggest you leave it out."
+            },
+            {
+                "start": 23,
+                "end": 24,
+                "error": "evidences",
+                "correct": "evidence",
+                "explanation": "\"Evidence\" is an uncountable noun so it should be written as singular."
+            },
+            {
+                "start": 26,
+                "end": 27,
+                "error": "are",
+                "correct": "is",
+                "explanation": "\"Anything\" is singular, so the verb that goes with it needs to be singular, too."
+            },
+            {
+                "start": 27,
+                "end": 27,
+                "error": "-",
+                "correct": "at",
+                "explanation": "None"
+            }
+        ],
+        "id": 54,
+        "incorrect sentence": "For instance , in militaries which are of high importance , surveillance technology is essential as it is a way to provide undeniable evidences if anything are fault .",
+        "correct sentence": "For instance , in the military , , surveillance technology is essential as it is a way to provide undeniable evidence if anything is at fault ."
+    },
+    {
+        "corrections": [
+            {
+                "start": 2,
+                "end": 2,
+                "error": "-",
+                "correct": ",",
+                "explanation": "Add a comma to separate the clauses."
+            },
+            {
+                "start": 8,
+                "end": 9,
+                "error": "stealers",
+                "correct": "thieves",
+                "explanation": "\"Stealers\" is not a real word, please use \"thieves\" instead."
+            },
+            {
+                "start": 12,
+                "end": 12,
+                "error": "-",
+                "correct": ",",
+                "explanation": "Add a comma to separate the clauses."
+            },
+            {
+                "start": 20,
+                "end": 21,
+                "error": "detect",
+                "correct": "detects",
+                "explanation": "Incorrect conjugation. Use the third person singular \"detects\" to go with \"surveillance technology\"."
+            },
+            {
+                "start": 21,
+                "end": 22,
+                "error": "stealers",
+                "correct": "theives",
+                "explanation": "\"Stealers\" is not a real word, please use \"thieves\" instead."
+            },
+            {
+                "start": 25,
+                "end": 25,
+                "error": "-",
+                "correct": ",",
+                "explanation": "Add a comma to separate the clauses."
+            },
+            {
+                "start": 25,
+                "end": 26,
+                "error": "are",
+                "correct": "is",
+                "explanation": "Incorrect conjugation. Use the third person singular \"is\" to go with \"surveillance technology\"."
+            },
+            {
+                "start": 26,
+                "end": 29,
+                "error": "superior to use",
+                "correct": "beneficial",
+                "explanation": "\"Superior to use\" is a little wordy and doesn't sound natural. Suggest replacing with \"beneficial\" to convey the same meaning."
+            }
+        ],
+        "id": 64,
+        "incorrect sentence": "In supermarkets where it is difficult to catch stealers , surveillance technology which makes records that can be replayed or detect stealers on the spot are superior to use .",
+        "correct sentence": "In supermarkets , where it is difficult to catch thieves , surveillance technology , which makes records that can be replayed or detects theives on the spot , is beneficial ."
+    },
+    {
+        "corrections": [
+            {
+                "start": 3,
+                "end": 5,
+                "error": "in utilizing",
+                "correct": "of",
+                "explanation": "\"In utilizing\" is a little wordy and doesn't sound natural. Suggest replacing with \"of\" to convey the same meaning."
+            },
+            {
+                "start": 9,
+                "end": 10,
+                "error": "amount",
+                "correct": "number",
+                "explanation": "\"Amount\" is used for things that cannot be counted, like \"amount of sugar\" and \"amount of love\", but \"disagreement\" can be counted, so you need to use \"number\"."
+            }
+        ],
+        "id": 68,
+        "incorrect sentence": "The high accuracy in utilizing surveillance technology eliminates the amount of disagreements among people .",
+        "correct sentence": "The high accuracy of surveillance technology eliminates the number of disagreements among people ."
+    },
+    {
+        "corrections": [
+            {
+                "start": 11,
+                "end": 12,
+                "error": "chance",
+                "correct": "possibility",
+                "explanation": "\"Chance\" sounds more informal than \"possibility\", so it is better to use \"possibility\" in formal writing."
+            },
+            {
+                "start": 12,
+                "end": 15,
+                "error": "for them to",
+                "correct": "they would",
+                "explanation": "\"For them to\" sounds more passive, as in \"If they enter the competition, there's a chance for them to win\", whereas \"they would\" links the action to the people's volition, and better conveys the idea that they would be more likely to perform a specific action."
+            }
+        ],
+        "id": 72,
+        "incorrect sentence": "If people are aware of the existence of surveillance , the chance for them to follow rules and orders is high .",
+        "correct sentence": "If people are aware of the existence of surveillance , the possibility they would follow rules and orders is high ."
+    },
+    {
+        "corrections": [
+            {
+                "start": 9,
+                "end": 11,
+                "error": "wrong doings",
+                "correct": "wrongdoing",
+                "explanation": "\"Wrongdoing\" is one word and singular."
+            },
+            {
+                "start": 9,
+                "end": 11,
+                "error": "wrong doings",
+                "correct": "-",
+                "explanation": "None "
+            },
+            {
+                "start": 11,
+                "end": 14,
+                "error": "that may occur",
+                "correct": "occurring",
+                "explanation": "The use of \"chances\" shows that we are talking about a potential future event, so you need to use the present continuous, \"occurring\"."
+            },
+            {
+                "start": 12,
+                "end": 14,
+                "error": "may occur",
+                "correct": "-",
+                "explanation": "None "
+            },
+            {
+                "start": 13,
+                "end": 14,
+                "error": "occur",
+                "correct": "-",
+                "explanation": "None"
+            }
+        ],
+        "id": 79,
+        "incorrect sentence": "It is useful as it reduces the chances of wrong doings that may occur .",
+        "correct sentence": "It is useful as it reduces the chances of wrongdoing"
+    },
+    {
+        "corrections": [
+            {
+                "start": 8,
+                "end": 9,
+                "error": "ordered",
+                "correct": "law abiding",
+                "explanation": "\"Ordered\" refers more to being well-organised, but for the sake of clarity, it would help to be more specific in the context of your paper, and therefore \"law abiding\" might be a better choice."
+            }
+        ],
+        "id": 82,
+        "incorrect sentence": "Therefore , surveillance technology makes our society more ordered .",
+        "correct sentence": "Therefore , surveillance technology makes our society more law abiding ."
+    },
+    {
+        "corrections": [
+            {
+                "start": 11,
+                "end": 12,
+                "error": "was",
+                "correct": "-",
+                "explanation": "Unnecessary word. You do not need to use \"was\" to link \"what\" and \"happened\"."
+            }
+        ],
+        "id": 85,
+        "incorrect sentence": "Risks can be analyzed if there is a record of what was happened in the past .",
+        "correct sentence": "Risks can be analyzed if there is a record of what happened in the past ."
+    },
+    {
+        "corrections": [
+            {
+                "start": 1,
+                "end": 1,
+                "error": "-",
+                "correct": "the",
+                "explanation": "Missing article. A specific time period is being referred to so use the definite article, \"the\". Also, I don't think this did occur in the nineteenth century, because the nineteenth century is 1800-1900."
+            },
+            {
+                "start": 5,
+                "end": 12,
+                "error": "there was a severe air crash happening",
+                "correct": "a severe air crash occurred",
+                "explanation": "\"There was a severe air crash happening\" doesn't sound natural and makes it sound like you're talking about a moment that was still ongoing. The rearranged \"a severe air crash occurred\" sounds more natural and lets us know this happened in the past."
+            },
+            {
+                "start": 14,
+                "end": 15,
+                "error": "international",
+                "correct": "International",
+                "explanation": "This is the name of the airport, which is a proper noun and therefore needs a capital letter."
+            }
+        ],
+        "id": 90,
+        "incorrect sentence": "In late nineteenth century , there was a severe air crash happening at Miami international airport .",
+        "correct sentence": "In the late nineteenth century , a severe air crash occurred at Miami International airport ."
+    },
+    {
+        "corrections": [
+            {
+                "start": 0,
+                "end": 10,
+                "error": "The air cargo of the Valujet plane was on fire",
+                "correct": "A fire started in the air cargo to a Valujet plane",
+                "explanation": "None"
+            },
+            {
+                "start": 4,
+                "end": 5,
+                "error": "the",
+                "correct": "-",
+                "explanation": "None"
+            }
+        ],
+        "id": 94,
+        "incorrect sentence": "The air cargo of the Valujet plane was on fire after the plane had taken off .",
+        "correct sentence": "A fire started in the air cargo to a Valujet plane the plane had taken off ."
+    },
+    {
+        "corrections": [
+            {
+                "start": 0,
+                "end": 5,
+                "error": "Sooner or later , the",
+                "correct": "The",
+                "explanation": "\"Sooner or later\" sounds too vague and would be best omitted."
+            },
+            {
+                "start": 7,
+                "end": 8,
+                "error": "were",
+                "correct": "-",
+                "explanation": "\"Were\" makes it sound like somebody else performed the action, like \"The doors were opened by the mayor\", but this is an action of the electric systems, so remove \"were\"."
+            },
+            {
+                "start": 10,
+                "end": 11,
+                "error": "as",
+                "correct": "with",
+                "explanation": "Using \"as\" here mixes up the cause and effect. It makes it sound like the aeroplane was out of control and that made the electric systems short circuit, whereas the reality is that the electric systems short circuiting caused the aeroplane to be out of control. Use \"with\" to rectify this and indicate the correct cause and effect."
+            },
+            {
+                "start": 11,
+                "end": 12,
+                "error": "a",
+                "correct": "the",
+                "explanation": "The sentence is talking about a specific result, so use the definite article, \"the\"."
+            },
+            {
+                "start": 21,
+                "end": 23,
+                "error": "nose diving",
+                "correct": "-",
+                "explanation": "None"
+            },
+            {
+                "start": 21,
+                "end": 23,
+                "error": "nose diving",
+                "correct": "nosedived",
+                "explanation": "\"Nosedive\" is one word."
+            },
+            {
+                "start": 26,
+                "end": 27,
+                "error": "with",
+                "correct": "at",
+                "explanation": "Incorrect preposition. When talking about speed, you are talking about the rate (extremely high) AT which something (the aeroplane) moves, so you need to use \"at\"."
+            }
+        ],
+        "id": 103,
+        "incorrect sentence": "Sooner or later , the electric systems were short circuited as a result that the airplane was out of control and nose diving to the ground with extremely high speed .",
+        "correct sentence": "The electric systems short circuited with the result that the airplane was out of control and the ground at extremely high speed ."
+    },
+    {
+        "corrections": [
+            {
+                "start": 4,
+                "end": 5,
+                "error": "were",
+                "correct": "-",
+                "explanation": "Unnecessary word. You could use \"were\" with a noun, as in \"All passengers and pilots were dead\", but this would suggest a state in which they were already dead before the crash. Since you mean that they died in the moment of impact, you should use the verb \"died\" and remove \"were\" as it is not required with a verb."
+            }
+        ],
+        "id": 106,
+        "incorrect sentence": "All passengers and pilots were died .",
+        "correct sentence": "All passengers and pilots died ."
+    },
+    {
+        "corrections": [
+            {
+                "start": 9,
+                "end": 10,
+                "error": "Valujet",
+                "correct": "plane",
+                "explanation": "\"Valujet\" is the name of the airline company, use \"plane\" instead for accuracy and clarity."
+            },
+            {
+                "start": 12,
+                "end": 13,
+                "error": "incidence",
+                "correct": "incident",
+                "explanation": "\"Incidence\" is not a real word. Use the noun, \"incident\"."
+            },
+            {
+                "start": 17,
+                "end": 18,
+                "error": "out",
+                "correct": "-",
+                "explanation": "None"
+            },
+            {
+                "start": 18,
+                "end": 18,
+                "error": "-",
+                "correct": "the",
+                "explanation": "Missing article. The sentence is talking about specific reasons, so use the definite article, \"the\"."
+            },
+            {
+                "start": 19,
+                "end": 20,
+                "error": "for",
+                "correct": "that",
+                "explanation": "Incorrect preposition. Use \"that\" to link \"reasons\" with the part of the sentence that describes what reasons they are, i.e. reasons that caused this serious incident."
+            },
+            {
+                "start": 20,
+                "end": 21,
+                "error": "causing",
+                "correct": "caused",
+                "explanation": "The sentence is talking about something that happened in the past, so use the past tense, \"caused\"."
+            },
+            {
+                "start": 22,
+                "end": 23,
+                "error": "severe",
+                "correct": "serious",
+                "explanation": "Incorrect word choice. \"Severe\" means harsh or stern, whereas \"serious\" in this context means \"really bad\"."
+            },
+            {
+                "start": 23,
+                "end": 24,
+                "error": "incidence",
+                "correct": "incident",
+                "explanation": "\"Incidence\" is not a real word. Use the noun, \"incident\"."
+            }
+        ],
+        "id": 116,
+        "incorrect sentence": "After finding and analyzing the black box of the Valujet after the incidence , police investigators found out reasons for causing this severe incidence .",
+        "correct sentence": "After finding and analyzing the black box of the plane after the incident , police investigators found the reasons that caused this serious incident ."
+    },
+    {
+        "corrections": [
+            {
+                "start": 2,
+                "end": 3,
+                "error": "can",
+                "correct": "could",
+                "explanation": "You are suggesting a potential use for surveillance technology, so you need to use \"could\" here."
+            },
+            {
+                "start": 12,
+                "end": 13,
+                "error": "its",
+                "correct": "them",
+                "explanation": "You are talking about \"risky events\" in the plural, so you need to refer to them with the plural, \"them\"."
+            },
+            {
+                "start": 12,
+                "end": 13,
+                "error": "its",
+                "correct": "them",
+                "explanation": "None"
+            },
+            {
+                "start": 13,
+                "end": 13,
+                "error": "-",
+                "correct": "from",
+                "explanation": "Missing preposition. To properly indicate what is being prevented, \"prevent\" should be followed by the proposition \"from\"."
+            },
+            {
+                "start": 19,
+                "end": 21,
+                "error": "to save",
+                "correct": "saving",
+                "explanation": "You are talking about a potential future event, so you need to use the present continuous, \"saving\"."
+            }
+        ],
+        "id": 123,
+        "incorrect sentence": "Surveillance technology can be used to detect very risky events and prevent its happening in the future , hence to save more lives .",
+        "correct sentence": "Surveillance technology could be used to detect very risky events and prevent them from happening in the future , hence saving more lives ."
+    },
+    {
+        "corrections": [
+            {
+                "start": 6,
+                "end": 7,
+                "error": "is",
+                "correct": "becomes",
+                "explanation": "You have written a conditional statement in which you talk about surveillance technology changing to get better, so you need to use \"becomes\" to convey this changing state."
+            },
+            {
+                "start": 12,
+                "end": 13,
+                "error": "can",
+                "correct": "could",
+                "explanation": "You are suggesting a potential use for surveillance technology, so you need to use \"could\" here."
+            },
+            {
+                "start": 17,
+                "end": 18,
+                "error": "the",
+                "correct": "-",
+                "explanation": "This sentence is not talking about a specific problem, but problems in general, so it does not need an article."
+            },
+            {
+                "start": 18,
+                "end": 19,
+                "error": "problem",
+                "correct": "problems",
+                "explanation": "This sentence is not talking about a specific problem, but problems in general, \"problems\" should be pluralised."
+            },
+            {
+                "start": 20,
+                "end": 21,
+                "error": "the",
+                "correct": "-",
+                "explanation": "This sentence is not talking about a specific accident, but accidents in general, so it does not need an article."
+            },
+            {
+                "start": 22,
+                "end": 23,
+                "error": "accidence",
+                "correct": "accidents",
+                "explanation": "\"Accidence\" is not a real word. Use \"accidents\", the plural of the noun, \"accident\"."
+            },
+            {
+                "start": 23,
+                "end": 25,
+                "error": "has happened",
+                "correct": "occurs",
+                "explanation": "\"Occurs\" is a better verb to use with \"accident\", and it should not be in the past tense because the sentence is not talking about something that happened in the past."
+            },
+            {
+                "start": 24,
+                "end": 25,
+                "error": "happened",
+                "correct": "-",
+                "explanation": "None"
+            }
+        ],
+        "id": 133,
+        "incorrect sentence": "In addition , if surveillance technology is even better developed , it can be used to detect the problem before the real accidence has happened .",
+        "correct sentence": "In addition , if surveillance technology becomes even better developed , it could be used to detect problems before real accidents occurs"
+    },
+    {
+        "corrections": [
+            {
+                "start": 14,
+                "end": 15,
+                "error": "the",
+                "correct": "-",
+                "explanation": "None"
+            }
+        ],
+        "id": 136,
+        "incorrect sentence": "However , the dark side of using surveillance technology is that it results in the invasion of privacy .",
+        "correct sentence": "However , the dark side of using surveillance technology is that it results in invasion of privacy ."
+    },
+    {
+        "corrections": [
+            {
+                "start": 7,
+                "end": 8,
+                "error": "the",
+                "correct": "-",
+                "explanation": "\"Society\" is an uncountable noun, so it doesn't need an article."
+            },
+            {
+                "start": 10,
+                "end": 11,
+                "error": "makes",
+                "correct": "causes",
+                "explanation": "\"Make\" and \"cause\" both basically mean the same thing, but \"make\" is less formal, so you should use \"cause\" in formal writing."
+            }
+        ],
+        "id": 142,
+        "incorrect sentence": "Therefore , surveillance technology provides convenience to the society but makes more inconvenience to individuals .",
+        "correct sentence": "Therefore , surveillance technology provides convenience to society but causes more inconvenience to individuals ."
+    },
+    {
+        "corrections": [
+            {
+                "start": 6,
+                "end": 7,
+                "error": "the",
+                "correct": "-",
+                "explanation": "\"Society\" is an uncountable noun, so it doesn't need an article."
+            },
+            {
+                "start": 11,
+                "end": 12,
+                "error": "applied",
+                "correct": "used",
+                "explanation": "The use of \"apply\" is a bit more specific, as you usually apply something TO something else like \"apply a plaster to the cut\", but \"use\" can be used just with the object you are using, so it would be better to use \"use\" here."
+            },
+            {
+                "start": 12,
+                "end": 16,
+                "error": "with the consideration of",
+                "correct": "-",
+                "explanation": "None"
+            },
+            {
+                "start": 18,
+                "end": 19,
+                "error": "life",
+                "correct": "lives",
+                "explanation": "The sentence is not talking about a single life, but the lives of multiple people, so \"life\" should be pluralised as \"lives\"."
+            }
+        ],
+        "id": 149,
+        "incorrect sentence": "In general , surveillance technology benefits the society and should be applied with the consideration of individuals ' life .",
+        "correct sentence": "In general , surveillance technology benefits society and should be used individuals ' lives ."
+    },
+    {
+        "corrections": [
+            {
+                "start": 4,
+                "end": 5,
+                "error": "on",
+                "correct": "with",
+                "explanation": "If you \"agree on\" something it usually means you reach a compromise with someone. When talking about an opinion and saying whether you agree or disagree, \"agree\" is usually followed by the preposition \"with\"."
+            },
+            {
+                "start": 6,
+                "end": 7,
+                "error": "argument",
+                "correct": "statement",
+                "explanation": "Incorrect word choice. This is an opinion/assertion that is being stated, so use \"statement\"."
+            }
+        ],
+        "id": 153,
+        "incorrect sentence": "I do not agree on this argument that surveillance technology should not be used to track people .",
+        "correct sentence": "I do not agree with this statement that surveillance technology should not be used to track people ."
+    },
+    {
+        "corrections": [
+            {
+                "start": 0,
+                "end": 7,
+                "error": "In this fast moving society , technology",
+                "correct": "Technology",
+                "explanation": "The same information is mentioned later in the sentence (the fast pace of this world) and so it doesn't make sense to preface this sentence with repeated information."
+            },
+            {
+                "start": 13,
+                "end": 13,
+                "error": "-",
+                "correct": "with",
+                "explanation": "Missing preposition. \"Catch up\" is a phrasal verb and, when used in the sense of getting to the same position as someone/something else, it should be followed by \"with\" to link \"catch up\" with the thing whose position you are trying to get to."
+            },
+            {
+                "start": 29,
+                "end": 32,
+                "error": "other army usage",
+                "correct": "military",
+                "explanation": "The \"police\" are not a branch of the army, so it doesn't make sense to say \"other army usage\". Instead, list \"military\" as a separate element."
+            }
+        ],
+        "id": 158,
+        "incorrect sentence": "In this fast moving society , technology is always improving to catch up the fast pace of this world and most surveillance technology is used by the police or other army usage to track people down .",
+        "correct sentence": "Technology is always improving to catch up with the fast pace of this world and most surveillance technology is used by the police or military to track people down ."
+    },
+    {
+        "corrections": [
+            {
+                "start": 1,
+                "end": 2,
+                "error": "the",
+                "correct": "-",
+                "explanation": "This sentence is talking about surveillance technology in general and therefore does not need an article."
+            },
+            {
+                "start": 8,
+                "end": 9,
+                "error": "invading",
+                "correct": "safeguarding",
+                "explanation": "None"
+            },
+            {
+                "start": 9,
+                "end": 10,
+                "error": "the",
+                "correct": "-",
+                "explanation": "The sentence is discussing human privacy in general, so it does not require an article."
+            }
+        ],
+        "id": 163,
+        "incorrect sentence": "Although the surveillance technology is an issue in invading the human privacy , it has also brought us lots of benefits and security .",
+        "correct sentence": "Although surveillance technology is an issue in safeguarding human privacy , it has also brought us lots of benefits and security ."
+    },
+    {
+        "corrections": [
+            {
+                "start": 4,
+                "end": 5,
+                "error": "are",
+                "correct": "have",
+                "explanation": "Incorrect tense. The sentence is saying that security systems have already been improved, so you need to use the past tense, \"have\"."
+            },
+            {
+                "start": 11,
+                "end": 11,
+                "error": "-",
+                "correct": "on the",
+                "explanation": "Missing words. You need to add \"on the\" before \"school campus\" to indicate the location."
+            }
+        ],
+        "id": 168,
+        "incorrect sentence": "Firstly , security systems are improved in many areas such as school campus or at the workplace .",
+        "correct sentence": "Firstly , security systems have improved in many areas such as on the school campus or at the workplace ."
+    },
+    {
+        "corrections": [
+            {
+                "start": 0,
+                "end": 1,
+                "error": "Many",
+                "correct": "Much",
+                "explanation": "\"Many\" is used with things that you can count, like \"How many people came to the party?\", whereas \"much\" is used with things that you cannot count, like \"How much water in the ocean?\". As \"surveillance\" is an uncountable noun, you need to use \"much\"."
+            },
+            {
+                "start": 4,
+                "end": 5,
+                "error": "are",
+                "correct": "is",
+                "explanation": "As an uncountable noun, \"surveillance\" is written as a singular noun, and so you need to use the corresponding singular verb, \"is\"."
+            },
+            {
+                "start": 8,
+                "end": 9,
+                "error": "the",
+                "correct": "-",
+                "explanation": "The sentence is talking about government sectors in general, so it should not have an article."
+            },
+            {
+                "start": 12,
+                "end": 12,
+                "error": "-",
+                "correct": "or",
+                "explanation": "None"
+            }
+        ],
+        "id": 176,
+        "incorrect sentence": "Many of this surveillance are being implemented in the government sectors , military areas to enhance their security .",
+        "correct sentence": "Much of this surveillance is being implemented in government sectors , or military areas to enhance their security ."
+    },
+    {
+        "corrections": [
+            {
+                "start": 7,
+                "end": 8,
+                "error": "the",
+                "correct": "-",
+                "explanation": "This sentence is talking about people in general and therefore it does not need an article."
+            }
+        ],
+        "id": 180,
+        "incorrect sentence": "It is useful to the government and the people in the law sector .",
+        "correct sentence": "It is useful to the government and people in the law sector ."
+    },
+    {
+        "corrections": [
+            {
+                "start": 11,
+                "end": 11,
+                "error": "-",
+                "correct": ",",
+                "explanation": "Add a comma to separate the clauses."
+            },
+            {
+                "start": 11,
+                "end": 14,
+                "error": "in particularly for",
+                "correct": "particularly",
+                "explanation": "\"In particularly for\" does not make sense, it is correct here to use \"particularly\" on its own."
+            },
+            {
+                "start": 14,
+                "end": 15,
+                "error": "the",
+                "correct": "-",
+                "explanation": "This sentence is talking about small children in general and therefore it does not need an article."
+            }
+        ],
+        "id": 189,
+        "incorrect sentence": "This can protect the students from being in a dangerous situation in particularly for the small children who are studying in nursery .",
+        "correct sentence": "This can protect the students from being in a dangerous situation , particularly small children who are studying in nursery ."
+    },
+    {
+        "corrections": [
+            {
+                "start": 10,
+                "end": 11,
+                "error": "the",
+                "correct": "-",
+                "explanation": "This sentence is talking about law enforcers in general, so it does not need an article."
+            },
+            {
+                "start": 13,
+                "end": 13,
+                "error": "-",
+                "correct": ",",
+                "explanation": "Add a comma to separate the clauses."
+            },
+            {
+                "start": 17,
+                "end": 17,
+                "error": "-",
+                "correct": ",",
+                "explanation": "Add a comma to separate the clauses."
+            },
+            {
+                "start": 19,
+                "end": 20,
+                "error": "evidences",
+                "correct": "evidence",
+                "explanation": "\"Evidence\" is an uncountable noun, so it should be written in the singular."
+            },
+            {
+                "start": 21,
+                "end": 22,
+                "error": "crime",
+                "correct": "crimes",
+                "explanation": "This sentence is talking about crimes in general, so \"crimes\" should be pluralised."
+            },
+            {
+                "start": 23,
+                "end": 24,
+                "error": "it",
+                "correct": "they",
+                "explanation": "The sentence is talking about after crimes occur, and as \"crimes\" is plural in this sentence, you need to refer to them with the corresponding third person plural pronoun, \"they\"."
+            },
+            {
+                "start": 24,
+                "end": 25,
+                "error": "occurred",
+                "correct": "occur",
+                "explanation": "The sentence is not talking about a specific crime that has already occurred, just the general course of action to take when a crime does occur, and therefore you need to use the present tense \"occur\" instead of the past tense."
+            }
+        ],
+        "id": 199,
+        "incorrect sentence": "This technology can also be a helpful tool to assist the law enforcers such as the police to collect evidences of crime after it occurred .",
+        "correct sentence": "This technology can also be a helpful tool to assist law enforcers , such as the police , to collect evidence of crimes after they occur ."
+    },
+    {
+        "corrections": [
+            {
+                "start": 7,
+                "end": 8,
+                "error": "the",
+                "correct": "-",
+                "explanation": "This sentence is talking about crimes in general, so it does not need an article."
+            },
+            {
+                "start": 8,
+                "end": 9,
+                "error": "crime",
+                "correct": "crimes",
+                "explanation": "This sentence is talking about crimes in general, so \"crimes\" should be plural."
+            },
+            {
+                "start": 13,
+                "end": 14,
+                "error": "amount",
+                "correct": "number",
+                "explanation": "\"Amount\" is used for things that cannot be counted, like \"amount of sugar\" and \"amount of love\", but \"criminal acts\" and \"people\" can both be counted, so you need to use \"number\"."
+            }
+        ],
+        "id": 204,
+        "incorrect sentence": "This can increase the efficiency of solving the crime and thus decreasing the amount of criminal acts or people .",
+        "correct sentence": "This can increase the efficiency of solving crimes and thus decreasing the number of criminal acts or people ."
+    },
+    {
+        "corrections": [
+            {
+                "start": 4,
+                "end": 5,
+                "error": "the",
+                "correct": "-",
+                "explanation": "This sentence is talking about video surveillance in general, so it does not need an article."
+            },
+            {
+                "start": 9,
+                "end": 10,
+                "error": "chances",
+                "correct": "number",
+                "explanation": "The sentence is not talking about reducing the opportunity for crime, but actually stopping people from committing crimes, so you should be talking about the total \"number\" of people."
+            },
+            {
+                "start": 12,
+                "end": 13,
+                "error": "performing",
+                "correct": "committing",
+                "explanation": "\"Performing\" is the wrong verb to use with \"crime\". We say that a person \"commits\" a crime."
+            },
+            {
+                "start": 14,
+                "end": 15,
+                "error": "can",
+                "correct": "could",
+                "explanation": "You are suggesting a potential effect of using video surveillance, so you need to use \"could\" here."
+            },
+            {
+                "start": 15,
+                "end": 17,
+                "error": "be decreased",
+                "correct": "decrease",
+                "explanation": "Using \"be decreased\" here makes it sound like further action is required, as in \"could be decreased by doing xyz\", but the sentence is saying that crimes could decrease as a result of the video surveillance and therefore no further action is required, and nor is \"be\"."
+            }
+        ],
+        "id": 211,
+        "incorrect sentence": "With the help of the video surveillance , the chances of people performing crimes can be decreased .",
+        "correct sentence": "With the help of video surveillance , the number of people committing crimes could decrease ."
+    },
+    {
+        "corrections": [
+            {
+                "start": 0,
+                "end": 1,
+                "error": "However",
+                "correct": "Although",
+                "explanation": "\"However\" should be used to contrast the current sentence with the previous sentence, but in this sentence, the contrast is being made within the sentence, between the first clause and the second clause, and in this case you need to use \"although\" to say \"While A is true, contrasting B is also true\" (you also need to remove the comma after \"although\")."
+            }
+        ],
+        "id": 214,
+        "incorrect sentence": "However , video surveillance may be a help to most sectors , it can also be misused by many people .",
+        "correct sentence": "Although , video surveillance may be a help to most sectors , it can also be misused by many people ."
+    },
+    {
+        "corrections": [
+            {
+                "start": 7,
+                "end": 9,
+                "error": "invasion of",
+                "correct": "invading",
+                "explanation": "The technology is not literally invading, so you should use the noun form, \"invasion\"."
+            },
+            {
+                "start": 10,
+                "end": 11,
+                "error": "s",
+                "correct": "-",
+                "explanation": "None"
+            }
+        ],
+        "id": 220,
+        "incorrect sentence": "This technology could also be seen as invasion of human 's privacy .",
+        "correct sentence": "This technology could also be seen as invading human privacy ."
+    },
+    {
+        "corrections": [
+            {
+                "start": 8,
+                "end": 9,
+                "error": "causing",
+                "correct": "cause",
+                "explanation": "This sentence is not talking about something that is currently happening, but something that could happen, so you need to change the present continuous \"causing\" to the present \"cause\"."
+            }
+        ],
+        "id": 224,
+        "incorrect sentence": "This could lead to psychological implications and thus causing many tremendous social effects that may be harmful to our society .",
+        "correct sentence": "This could lead to psychological implications and thus cause many tremendous social effects that may be harmful to our society ."
+    },
+    {
+        "corrections": [
+            {
+                "start": 16,
+                "end": 18,
+                "error": "being invaded",
+                "correct": "compromised",
+                "explanation": "None"
+            },
+            {
+                "start": 17,
+                "end": 18,
+                "error": "invaded",
+                "correct": "-",
+                "explanation": "None"
+            }
+        ],
+        "id": 228,
+        "incorrect sentence": "If everyone is being watched unknowingly , it seems that our freedom of doing things is being invaded .",
+        "correct sentence": "If everyone is being watched unknowingly , it seems that our freedom of doing things is compromised"
+    },
+    {
+        "corrections": [
+            {
+                "start": 8,
+                "end": 9,
+                "error": "being",
+                "correct": "it is",
+                "explanation": "\"Being\" puts more emphasis on the verb, \"used in the correct manner\", but as the sentence is talking about the technology, you should use \"it is\" to refer back to, and put emphasis on, \"technology\"."
+            }
+        ],
+        "id": 231,
+        "incorrect sentence": "Technology can be a very useful tool if being used in the correct manner .",
+        "correct sentence": "Technology can be a very useful tool if it is used in the correct manner ."
+    },
+    {
+        "corrections": [
+            {
+                "start": 2,
+                "end": 3,
+                "error": "be",
+                "correct": "-",
+                "explanation": "\"Help\" is being used as a verb, so \"be\" is not needed here."
+            },
+            {
+                "start": 3,
+                "end": 4,
+                "error": "a",
+                "correct": "-",
+                "explanation": "\"Help\" is being used as a verb, so \"a\" is not needed here."
+            },
+            {
+                "start": 15,
+                "end": 16,
+                "error": "do",
+                "correct": "commit",
+                "explanation": "\"Do\" is the wrong verb to use with \"crime\". We say that a person \"commits\" a crime."
+            },
+            {
+                "start": 16,
+                "end": 17,
+                "error": "crime",
+                "correct": "crimes",
+                "explanation": "This sentence is talking about crimes in general, so \"crimes\" should be pluralised."
+            }
+        ],
+        "id": 237,
+        "incorrect sentence": "It may be a help to prevent potential crimes from happening but also help people do crime .",
+        "correct sentence": "It may help to prevent potential crimes from happening but also help people commit crimes ."
+    },
+    {
+        "corrections": [
+            {
+                "start": 1,
+                "end": 3,
+                "error": "knowledge of",
+                "correct": "-",
+                "explanation": "None "
+            },
+            {
+                "start": 13,
+                "end": 14,
+                "error": "can",
+                "correct": "could",
+                "explanation": "You are suggesting a potential effect of installing surveillance, so you need to use \"could\" here."
+            },
+            {
+                "start": 18,
+                "end": 19,
+                "error": "increasing",
+                "correct": "increase",
+                "explanation": "None"
+            },
+            {
+                "start": 19,
+                "end": 20,
+                "error": "it",
+                "correct": "-",
+                "explanation": "Unnecessary word. \"Increasing\" is referring to \"crimes\" earlier in the sentence, as in crimes not increasing, so \"it\" is unnecessary here because it is not referring to anything mentioned in the sentence."
+            }
+        ],
+        "id": 243,
+        "incorrect sentence": "The knowledge of installing surveillance should be taught to everyone so that crimes can be eliminated instead of increasing it .",
+        "correct sentence": "The installing surveillance should be taught to everyone so that crimes could be eliminated instead of increase ."
+    },
+    {
+        "corrections": [
+            {
+                "start": 0,
+                "end": 1,
+                "error": "The",
+                "correct": "However , the",
+                "explanation": "This sentence is being contrasted with what was said in the previous sentence, so you need to use \"however\" to indicate their relationship."
+            },
+            {
+                "start": 3,
+                "end": 4,
+                "error": "using",
+                "correct": "use",
+                "explanation": "This sentence is not saying that more people are currently using it, it is a hypothetical statement, and you should therefore use the present tense, \"use\"."
+            },
+            {
+                "start": 5,
+                "end": 6,
+                "error": "over",
+                "correct": "on",
+                "explanation": "Incorrect preposition. Use \"on\" to indicate the thing (us) that you will perform the action (use) on."
+            },
+            {
+                "start": 14,
+                "end": 15,
+                "error": "on",
+                "correct": "over",
+                "explanation": "If someone is in a position of power or authority, we think of them as being metaphorically above us, therefore if they wield/exert power from that position, then they would be wielding/exerting their power \"over\" us."
+            }
+        ],
+        "id": 249,
+        "incorrect sentence": "The more people using it over us , the more power they will have on us .",
+        "correct sentence": "However , the more people use it on us , the more power they will have over us ."
+    },
+    {
+        "corrections": [
+            {
+                "start": 10,
+                "end": 12,
+                "error": "other 's",
+                "correct": "-",
+                "explanation": "As \"permission\" is something granted by another person, this is already taken for granted without needing to explicitly say \"other's\". "
+            },
+            {
+                "start": 15,
+                "end": 15,
+                "error": "-",
+                "correct": "technology",
+                "explanation": "You should explicitly state \"technology\" for clarity."
+            },
+            {
+                "start": 21,
+                "end": 22,
+                "error": "to",
+                "correct": "in",
+                "explanation": "An implant goes inside the body, so you need to use \"in\" accordingly."
+            }
+        ],
+        "id": 254,
+        "incorrect sentence": "We should respect that everyone has human rights and without other 's permission , this should not be placed or implanted to anyone .",
+        "correct sentence": "We should respect that everyone has human rights and without permission , this technology should not be placed or implanted in anyone ."
+    },
+    {
+        "corrections": [
+            {
+                "start": 7,
+                "end": 7,
+                "error": "-",
+                "correct": "for",
+                "explanation": "Missing preposition. Use \"for\" to link the reason, \"infringing someone's privacy\", to the action, \"sue\"."
+            },
+            {
+                "start": 8,
+                "end": 10,
+                "error": "other 's",
+                "correct": "-",
+                "explanation": "None"
+            },
+            {
+                "start": 11,
+                "end": 12,
+                "error": ",",
+                "correct": ";",
+                "explanation": "These are independent clauses and could be separate sentences, so you should not use a comma here. Although the clauses are independent, they are related, so it would be better to maintain that relationship by using a semicolon than severing it with a full stop."
+            },
+            {
+                "start": 23,
+                "end": 25,
+                "error": "other 's",
+                "correct": "-",
+                "explanation": "As \"consent\" is something given by another person, this is already taken for granted without needing to explicitly say \"other's\". "
+            }
+        ],
+        "id": 260,
+        "incorrect sentence": "We do not want to be sued infringing other 's privacy , therefore , before implanting any RFID , we should ask for other 's consent .",
+        "correct sentence": "We do not want to be sued for infringing privacy ; therefore , before implanting any RFID , we should ask for consent ."
+    },
+    {
+        "corrections": [
+            {
+                "start": 12,
+                "end": 14,
+                "error": ", products",
+                "correct": ". Products",
+                "explanation": "Use a full stop to separate these two sentences."
+            },
+            {
+                "start": 18,
+                "end": 19,
+                "error": "system",
+                "correct": "systems",
+                "explanation": "The sentence is talking about systems in general, so \"system\" should be pluralised."
+            }
+        ],
+        "id": 265,
+        "incorrect sentence": "And after all this scientific research result is applied to daily life , products such as RFID tracking system have become real .",
+        "correct sentence": "And after all this scientific research result is applied to daily life . Products such as RFID tracking systems have become real ."
+    },
+    {
+        "corrections": [
+            {
+                "start": 12,
+                "end": 13,
+                "error": "purpose",
+                "correct": "purposes",
+                "explanation": "Two purposes are listed, so \"purpose\" should be pluralised."
+            },
+            {
+                "start": 21,
+                "end": 22,
+                "error": "by",
+                "correct": "through",
+                "explanation": "\"Human implants\" are the means through which you track the people, so you need to use the preposition, \"through\"."
+            },
+            {
+                "start": 22,
+                "end": 23,
+                "error": "doing",
+                "correct": "-",
+                "explanation": "Unnecessary word. In your sentence you are saying that the means of tracking is \"doing human implants\", but it is not clear what action you are representing with \"doing\". The meaning remains intact without this word seeing as it is only being used to modify \"human implants\", so please remove it for clarity."
+            }
+        ],
+        "id": 270,
+        "incorrect sentence": "RFID is not only used to track products for logistical and storage purpose , it is also used to track people by doing human implants .",
+        "correct sentence": "RFID is not only used to track products for logistical and storage purposes , it is also used to track people through human implants ."
+    },
+    {
+        "corrections": [
+            {
+                "start": 7,
+                "end": 8,
+                "error": "the",
+                "correct": "-",
+                "explanation": "Use \"the society\" when referring to a specific association e.g., the law society, the consumer society, etc., but when referring to a large number of people definite article \"the\" should be removed. American society, not the American society."
+            },
+            {
+                "start": 9,
+                "end": 11,
+                "error": ", however",
+                "correct": ". However",
+                "explanation": "Punctuation is needed to separate clauses and create contrasting ideas. The author believes this application provides benefits (idea2) despite being unacceptable (idea1). Those ideas are related but independent and separating them into two sentences improves clarity and structure."
+            },
+            {
+                "start": 20,
+                "end": 21,
+                "error": "the",
+                "correct": "-",
+                "explanation": "Use \"the society\" when referring to a specific association e.g., the law society, the consumer society, etc., but when referring to a large number of people definite article \"the\" should be removed. American society, not the American society."
+            },
+            {
+                "start": 25,
+                "end": 26,
+                "error": "benefit",
+                "correct": "benefits",
+                "explanation": "The author wants to express that society is provided multiple benefits, therefore s is added to change the noun from singular to plural form."
+            }
+        ],
+        "id": 276,
+        "incorrect sentence": "It is unacceptable for some people in the society , however , I think this application is necessary and provides the society a lot of benefit .",
+        "correct sentence": "It is unacceptable for some people in society . However , I think this application is necessary and provides society a lot of benefits ."
+    },
+    {
+        "corrections": [
+            {
+                "start": 11,
+                "end": 11,
+                "error": "-",
+                "correct": "and",
+                "explanation": "\"And\" is a conjunction used to join two independent clauses (the cause and effect attributed to surveillance technology). "
+            }
+        ],
+        "id": 279,
+        "incorrect sentence": "Surveillance technology such as RFID has been used to track people may help to reduce the number of people who get lost .",
+        "correct sentence": "Surveillance technology such as RFID has been used to track people and may help to reduce the number of people who get lost ."
+    },
+    {
+        "corrections": [
+            {
+                "start": 6,
+                "end": 7,
+                "error": "news",
+                "correct": "reports",
+                "explanation": "The word \"news\" in English is considered singular and uncountable. I.e. \"news\" is a singular noun used to refer to multiple news stories in general. This author wants to refer to a number of specific stories, so \"reports\" must be used. "
+            },
+            {
+                "start": 7,
+                "end": 8,
+                "error": "on",
+                "correct": "in",
+                "explanation": "\"On\" is not the correct preposition to use in this context. \"In\" is used with the reports which are the written contents within the newspaper. \"On\" will describe an object physically on top of a newspaper, so it should not be used. To find what we are looking for, we usually have to open the newspaper and look inside. Therefore \"in\" is the most appropriate preposition."
+            },
+            {
+                "start": 8,
+                "end": 8,
+                "error": "-",
+                "correct": "the",
+                "explanation": "We use a definite article to refer to systems of communication and the mass media, in contrast to the actual machine of communications. The newspaper is the system of communication; a newspaper is the actual physical machine. In this context, newspaper is the system of communication, so the article \"the\" should be added."
+            },
+            {
+                "start": 9,
+                "end": 12,
+                "error": ", report that",
+                "correct": "about",
+                "explanation": "\"that\" is used after the verb \"report\" to indicate its object . However, \"report\" is used as a noun here, so the preposition \"about\" is used to describe what the noun concerns."
+            },
+            {
+                "start": 14,
+                "end": 14,
+                "error": "-",
+                "correct": "people",
+                "explanation": "The sentence originally used \"some elderly\" instead of \"elderly people,\" which is not grammatically correct. \"People\" should be added to clarify that the subject being discussed are specific individuals, not an overall category of people."
+            },
+            {
+                "start": 14,
+                "end": 14,
+                "error": "-",
+                "correct": "who",
+                "explanation": "\"Who\" is a relative pronoun used when describing \"people\"."
+            },
+            {
+                "start": 18,
+                "end": 19,
+                "error": "place",
+                "correct": "places",
+                "explanation": "\"Place\" is singular, but multiple people are being described and their respective places are separate, so the plural \"places\" must be used."
+            },
+            {
+                "start": 21,
+                "end": 22,
+                "error": "family",
+                "correct": "families",
+                "explanation": "Multiple subjects (elderly people) are being discussed and family must be changed to its plural \"families\" to distinguish those families refer to the respective people."
+            },
+            {
+                "start": 25,
+                "end": 28,
+                "error": "him or her",
+                "correct": "them",
+                "explanation": "\"Him or her\" is used to refer to a specific single person, but multiple people are being referred to, so the plural \"them\" must be used."
+            }
+        ],
+        "id": 290,
+        "incorrect sentence": "For example , there are always news on newspaper , report that some elderly get lost at certain place and their family are looking for him or her .",
+        "correct sentence": "For example , there are always reports in the newspaper about some elderly people who get lost at certain places and their families are looking for them ."
+    },
+    {
+        "corrections": [
+            {
+                "start": 12,
+                "end": 12,
+                "error": "-",
+                "correct": "person",
+                "explanation": "\"The elderly\" refers to a category of multiple people, but the sentence is referring to each family's respective single person, so the singular \"person\" must be used."
+            },
+            {
+                "start": 19,
+                "end": 20,
+                "error": "office",
+                "correct": "officers",
+                "explanation": "\"Police office\" refers to a place, whereas \"police officer\" is the word for people working as police. The help is coming from multiple police officers, so \"officers\" must be used. "
+            },
+            {
+                "start": 27,
+                "end": 27,
+                "error": "-",
+                "correct": "person",
+                "explanation": "\"The elderly\" refers to a category of multiple people, but the sentence is referring to each family's respective single person, so the singular \"person\" must be used."
+            },
+            {
+                "start": 27,
+                "end": 28,
+                "error": "back",
+                "correct": "-",
+                "explanation": "\"Find\" does not need the adverb \"back\" to convey the implied meaning here. \"Find back\" is not a common phrase."
+            },
+            {
+                "start": 48,
+                "end": 48,
+                "error": "-",
+                "correct": "that",
+                "explanation": "\"That\" is used to introduce defining relative clauses. \"Has a population..\" is a clause describing \"country\", so \"that\" is needed to connect them. "
+            },
+            {
+                "start": 51,
+                "end": 51,
+                "error": "-",
+                "correct": "of",
+                "explanation": "A population is defined as a group of individuals. The preposition \"of\" is needed to indicate \"about five million\" is part of the population."
+            }
+        ],
+        "id": 298,
+        "incorrect sentence": "The family members must be worrying a lot about the lost elderly , and with the help of police office , maybe they can find the elderly back , but it will take a long time , and a lot of energy to find someone in a country has a population about five million without knowing the exact location of that person .",
+        "correct sentence": "The family members must be worrying a lot about the lost elderly person , and with the help of police officers , maybe they can find the elderly person , but it will take a long time , and a lot of energy to find someone in a country that has a population of about five million without knowing the exact location of that person ."
+    },
+    {
+        "corrections": [
+            {
+                "start": 5,
+                "end": 5,
+                "error": "-",
+                "correct": "person",
+                "explanation": "\"People\" should be added to clarify that the subject being discussed is a specific individual, not an overall category of people."
+            },
+            {
+                "start": 9,
+                "end": 9,
+                "error": "-",
+                "correct": "a",
+                "explanation": "The sentence originally used \"RFID devices\" instead of \"a RFID device.\" \"A\" should be added to indicate that the subject being discussed is one specific device, not multiple devices."
+            },
+            {
+                "start": 10,
+                "end": 11,
+                "error": "devices",
+                "correct": "device",
+                "explanation": "The sentence originally used \"devices\" instead of \"device.\" \"Device\" should be used to indicate that the subject being discussed is one specific device, not multiple devices."
+            },
+            {
+                "start": 35,
+                "end": 36,
+                "error": "differently",
+                "correct": "-",
+                "explanation": "The word \"differently\" is unnecessary in this context and should be removed for better sentence structure and clarity."
+            }
+        ],
+        "id": 304,
+        "incorrect sentence": "However , if the elderly has been implanted with RFID devices , then it will be much easier for the family to find him or her with the special serial number issued to each device differently .",
+        "correct sentence": "However , if the elderly person has been implanted with a RFID device , then it will be much easier for the family to find him or her with the special serial number issued to each device ."
+    },
+    {
+        "corrections": [
+            {
+                "start": 16,
+                "end": 18,
+                "error": "; therefore",
+                "correct": "and",
+                "explanation": "The two statements are directly related, so a semicolon is not needed. Both predicate phrases are acted on by the same subject, so \"and\" is used to improve the structure and distinguish two things that \"can\" be done."
+            },
+            {
+                "start": 25,
+                "end": 25,
+                "error": "-",
+                "correct": "person",
+                "explanation": "The sentence originally used \"the lost elderly\", which is not grammatically correct. \"Person\" should be used to clarify that the subject is a specific individual respective of each single device, not an overall category of people."
+            }
+        ],
+        "id": 308,
+        "incorrect sentence": "They can track the location of the device with the information provided by the RFID signals ; therefore find the location of the lost elderly in a shorter period of time .",
+        "correct sentence": "They can track the location of the device with the information provided by the RFID signals and find the location of the lost elderly person in a shorter period of time ."
+    },
+    {
+        "corrections": [
+            {
+                "start": 11,
+                "end": 12,
+                "error": "the",
+                "correct": "-",
+                "explanation": "The use of \"the\" implies reference to a particular single group, but here we are referring to lost people in general, so the definite article \"the\" is not needed in this sentence. "
+            },
+            {
+                "start": 15,
+                "end": 15,
+                "error": "-",
+                "correct": "is",
+                "explanation": "In the incorrect sentence, the adjective phrase \"also useful...\" could be misinterpreted as the object of the verb \"track.\" \"Is\" should be added to clarify the connection of this verb phrase to the subject \"surveillance technology.\""
+            },
+            {
+                "start": 23,
+                "end": 23,
+                "error": "-",
+                "correct": ",",
+                "explanation": "A comma is needed here to distinguish that \"which\" refers to \"the trading of children,\" rather than \"children.\""
+            }
+        ],
+        "id": 313,
+        "incorrect sentence": "Surveillance technology such as RFID is not only useful to track the lost people but also useful to prevent the trading of children which happens in many developing countries .",
+        "correct sentence": "Surveillance technology such as RFID is not only useful to track lost people but is also useful to prevent the trading of children , which happens in many developing countries ."
+    },
+    {
+        "corrections": [
+            {
+                "start": 14,
+                "end": 18,
+                "error": "doing the business to",
+                "correct": "-",
+                "explanation": "\"Trade\" provides sufficient meaning, so \"doing the business\" should be removed for better structure."
+            },
+            {
+                "start": 18,
+                "end": 19,
+                "error": "trade",
+                "correct": "trades",
+                "explanation": "We must add \"s\" to a verb when the subject is third person singular.\" \"some agency\" is a third person singular noun, so trade must be changed to trades."
+            }
+        ],
+        "id": 317,
+        "incorrect sentence": "It may be known that young children may be stolen by some agency that doing the business to trade the children .",
+        "correct sentence": "It may be known that young children may be stolen by some agency that trades the children ."
+    },
+    {
+        "corrections": [
+            {
+                "start": 7,
+                "end": 8,
+                "error": "the",
+                "correct": "a",
+                "explanation": "\"The\" is a definite article used when a specific noun is known to the reader, but here \"public area\" is an unspecified place, so the general article \"a\" should be used."
+            },
+            {
+                "start": 14,
+                "end": 19,
+                "error": "to bring their children out",
+                "correct": "-",
+                "explanation": "\"Bring their children out\" is an assumed action in this context (public area) and should be removed to improve grammar clarity and general structure. "
+            },
+            {
+                "start": 19,
+                "end": 20,
+                "error": "but",
+                "correct": "who",
+                "explanation": "\"who\" is used to introduce relative clauses that describe people. \"Do not pay attention...\" is a clause describing \"parents\", so \"who\" is needed to connect them. "
+            },
+            {
+                "start": 20,
+                "end": 21,
+                "error": "did",
+                "correct": "do",
+                "explanation": "\"Did\" is the wrong verb tense because this is not an event which has already happened. The action described currently happens in the present and possibly the future, so the present tense \"do\" must be used."
+            },
+            {
+                "start": 21,
+                "end": 22,
+                "error": "n't",
+                "correct": "not",
+                "explanation": "The verb \"did\" was corrected to the present tense \"do,\" so the contraction must also be changed. "
+            },
+            {
+                "start": 25,
+                "end": 26,
+                "error": "the",
+                "correct": "their",
+                "explanation": "The article \"the\" is not appropriate to use with \"child\" in this context. Each \"child\" is specific to the respective parent, so the possessive pronoun \"their\" should be used."
+            },
+            {
+                "start": 39,
+                "end": 39,
+                "error": "-",
+                "correct": "a",
+                "explanation": "The mountain referred to here is a general place not specified to each case, so the general article \"a\" must be used. "
+            },
+            {
+                "start": 46,
+                "end": 47,
+                "error": "with",
+                "correct": "for",
+                "explanation": "\"With\" is not the correct preposition to use in this context. \"For\" should be used with \"a price\" to express the exchange of object for object (child for money.)"
+            }
+        ],
+        "id": 327,
+        "incorrect sentence": "For example , they may wait in the public area and wait for parents to bring their children out but did n't pay attention to the child , so that this kind of agency may bring the child to mountain area and sell him or her with a good price .",
+        "correct sentence": "For example , they may wait in a public area and wait for parents who do not pay attention to their child , so that this kind of agency may bring the child to a mountain area and sell him or her for a good price ."
+    },
+    {
+        "corrections": [
+            {
+                "start": 2,
+                "end": 4,
+                "error": "is happen",
+                "correct": "happens",
+                "explanation": "\"Happen\" is an intransitive verb which does not require the helping verb so \"is\". The subject \"this\" is a third person singular, so the verb \"happen\" requires an \"s\" or \"es.\" Therefore we change the clause to \"this happens.\""
+            },
+            {
+                "start": 7,
+                "end": 8,
+                "error": "the",
+                "correct": "-",
+                "explanation": "The definite article \"the\" should not be used because we are discussing multiple unknown countries, not a singular known country. "
+            },
+            {
+                "start": 8,
+                "end": 9,
+                "error": "country",
+                "correct": "countries",
+                "explanation": "The author is discussing multiple countries, the noun must be changed from singular \"country\" to the plural \"countries.\""
+            },
+            {
+                "start": 10,
+                "end": 11,
+                "error": "is",
+                "correct": "are",
+                "explanation": "The be verb \"is\" must be changed depending on the plurality of the subject. The subject \"countries\" is plural, and so the be verb \"is\" must be changed to its appropriate form: \"are.\""
+            },
+            {
+                "start": 32,
+                "end": 33,
+                "error": "back",
+                "correct": "-",
+                "explanation": "\"Find\" does not need the adverb \"back\" to convey the implied meaning here. \"Find back\" is not a common phrase."
+            }
+        ],
+        "id": 334,
+        "incorrect sentence": "Since this is happen more often in the country which is much larger than Singapore , it is even harder or maybe it is impossible for the parents to find the child back without knowing where the child has been brought to .",
+        "correct sentence": "Since this happens more often in countries which are much larger than Singapore , it is even harder or maybe it is impossible for the parents to find the child without knowing where the child has been brought to ."
+    },
+    {
+        "corrections": [
+            {
+                "start": 0,
+                "end": 21,
+                "error": "Since this may happen across province , and without any clue about the path that the child may went through .",
+                "correct": "-",
+                "explanation": "None"
+            },
+            {
+                "start": 5,
+                "end": 6,
+                "error": "province",
+                "correct": "provinces",
+                "explanation": "The author is discussing multiple provinces, so \"province\" must be changed to its plural \"provinces\" by adding an \"s.\""
+            },
+            {
+                "start": 18,
+                "end": 19,
+                "error": "went",
+                "correct": "have gone",
+                "explanation": "The incorrect sentence uses the perfect past tense \"went,\" which indicates that the action has already happened and is now completed. However, the action is still currently happening, so the present continuous tense \"have gone\" is more appropriate to use in this context."
+            },
+            {
+                "start": 19,
+                "end": 20,
+                "error": "through",
+                "correct": "along",
+                "explanation": "None"
+            }
+        ],
+        "id": 340,
+        "incorrect sentence": "Since this may happen across province , and without any clue about the path that the child may went through .",
+        "correct sentence": ""
+    },
+    {
+        "corrections": [
+            {
+                "start": 7,
+                "end": 8,
+                "error": "installed",
+                "correct": "implanted",
+                "explanation": "The verb \"install\" is not the appropriate verb to use in this context. It is used when the object is a machine or equipment. In this case the object being acted on by the tracking device is a person (child), so the verb \"implant\" is appropriate and should be used. "
+            },
+            {
+                "start": 9,
+                "end": 9,
+                "error": "-",
+                "correct": "a",
+                "explanation": "Because the sentence refers to any tracking device in general, the indefinite article \"a\" is appropriate here."
+            }
+        ],
+        "id": 344,
+        "incorrect sentence": "However , if the child has been installed with tracking device , more information will be provided along the way when the family is trying to find him or her back .",
+        "correct sentence": "However , if the child has been implanted with a tracking device , more information will be provided along the way when the family is trying to find him or her back ."
+    },
+    {
+        "corrections": [
+            {
+                "start": 12,
+                "end": 12,
+                "error": "-",
+                "correct": "details that",
+                "explanation": "The relative pronoun \"that\" is used here to connect the describing clause \"may lead to...\" to \"details.\" Without it the subject and participle relationships are unclear."
+            },
+            {
+                "start": 15,
+                "end": 23,
+                "error": "find out the root of this kind of",
+                "correct": "-",
+                "explanation": "This phrase is lengthy and has implied information, so it should be removed for better structure and clarity. "
+            },
+            {
+                "start": 23,
+                "end": 23,
+                "error": "-",
+                "correct": "the",
+                "explanation": "We use the definite article \"the\" for nouns that are specific and known to the reader. The noun \"children trading agency\" is not a general one, but rather a specific, previously mentioned agency. Therefore, the definite article \"the\" should be used."
+            },
+            {
+                "start": 27,
+                "end": 28,
+                "error": "it",
+                "correct": "-",
+                "explanation": "The pronoun \"it\" is used to refer to a noun. In this case, the word \"and\" is used to separate two predicate phrases of the same subject (details), which is already stated and clear, therefore, \"it\" is not needed."
+            },
+            {
+                "start": 28,
+                "end": 29,
+                "error": "helps",
+                "correct": "help",
+                "explanation": "The incorrect sentence uses the verbs \"may lead\" and \"helps\" with the subject \"details,\" but the bare infinitive should be used after modal verbs such as \"can\" and \"may.\" Therefore \"helps\" is changed to \"help.\""
+            },
+            {
+                "start": 32,
+                "end": 32,
+                "error": "-",
+                "correct": "of",
+                "explanation": "\"More of\" indicates an increased amount or quantity of something, and so is more appropriate to use with \"this kind of tragedy\" than \"more.\""
+            },
+            {
+                "start": 36,
+                "end": 37,
+                "error": "to",
+                "correct": "from",
+                "explanation": "\"To\" is the wrong preposition to use with the verb \"prevent.\" Prevent implies a movement in opposition to its object and the proper preposition to use is \"from.\""
+            },
+            {
+                "start": 37,
+                "end": 38,
+                "error": "happen",
+                "correct": "happening",
+                "explanation": "To \"prevent something from happening\" is a common phrase. It uses the preposition \"from.\" A gerund must be used after a preposition, so happen is changed to its gerund \"happening.\""
+            },
+            {
+                "start": 38,
+                "end": 39,
+                "error": "on",
+                "correct": "to",
+                "explanation": "\"On\" is the wrong preposition to use in this context. Using the preposition \"to\" will properly designate \"family\" as the object of the verb \"happening.\""
+            }
+        ],
+        "id": 355,
+        "incorrect sentence": "Not only the details of location will be provided , but also may lead to find out the root of this kind of children trading agency and it helps to prevent more this kind of tragedy to happen on any family .",
+        "correct sentence": "Not only the details of location will be provided , but also details that may lead to the children trading agency and help to prevent more of this kind of tragedy from happening to any family ."
+    },
+    {
+        "corrections": [
+            {
+                "start": 6,
+                "end": 7,
+                "error": "the",
+                "correct": "-",
+                "explanation": "The use of the definite article \"the\" implies reference to a particular family, but here we are referring to multiple families, so \"the\" should not be used in this sentence. "
+            },
+            {
+                "start": 7,
+                "end": 8,
+                "error": "family",
+                "correct": "families",
+                "explanation": "The author is discussing multiple families, so the singular form (family) must be changed to its plural (families.)"
+            },
+            {
+                "start": 8,
+                "end": 9,
+                "error": "to",
+                "correct": "from",
+                "explanation": "\"To\" is the wrong preposition to use in this context. The verb \"prevent losing\" implies a direction away from the object \"family.\" The correction preposition to use in this case is \"from.\""
+            },
+            {
+                "start": 9,
+                "end": 10,
+                "error": "loss",
+                "correct": "losing",
+                "explanation": "\"Losing\" is a gerund which functions as a noun. \"To prevent from losing\" is a commonly used phrase and the gerund must be used after a preposition."
+            },
+            {
+                "start": 11,
+                "end": 12,
+                "error": "member",
+                "correct": "members",
+                "explanation": "The number or specificity of the family member is not implied here. Using the plural form generalizes and negates the assumption, so \"member\" should be changed to \"members\"."
+            },
+            {
+                "start": 12,
+                "end": 12,
+                "error": "-",
+                "correct": ",",
+                "explanation": "A comma should be used here to increase structure and clarity. "
+            },
+            {
+                "start": 18,
+                "end": 19,
+                "error": "which",
+                "correct": "who",
+                "explanation": "\"Which\" is used to refer to a specific thing or idea, but in this sentence it is used to refer to people. The word \"who\" is appropriate to use when referring to people."
+            },
+            {
+                "start": 22,
+                "end": 23,
+                "error": "pay",
+                "correct": "paid",
+                "explanation": "In this clause, the subject (children) is being acted upon, so the verb \"pay\" must be changed to its passive form, \"paid.\""
+            }
+        ],
+        "id": 365,
+        "incorrect sentence": "Surveillance technology will help to prevent the family to loss their member especially the elderly and the children which need to be pay more attention to .",
+        "correct sentence": "Surveillance technology will help to prevent families from losing their members , especially the elderly and the children who need to be paid more attention to ."
+    },
+    {
+        "corrections": [
+            {
+                "start": 1,
+                "end": 2,
+                "error": "the",
+                "correct": "-",
+                "explanation": "In this case, \"technology\" is a specific subject that is known to the reader. Without a definite article, it would be misinterpreted as technology in general, so \"the technology\" should be used. "
+            },
+            {
+                "start": 10,
+                "end": 11,
+                "error": "are",
+                "correct": "were",
+                "explanation": "The incorrect sentence uses the present tense \"are.\" Becoming possible implies impossibility in the past, so the past tense should be used. Therefore, \"are\" must be changed to its past tense \"were.\""
+            },
+            {
+                "start": 15,
+                "end": 17,
+                "error": "turning into",
+                "correct": "becoming",
+                "explanation": "\"The possibles\" is not a word, it should be changed to the adjective \"possible.\" \"Turn into\" can only be followed by a noun and cannot be used with \"possible\". Therefore, \"turning into\" should be changed to \"becoming.\""
+            },
+            {
+                "start": 17,
+                "end": 18,
+                "error": "the",
+                "correct": "-",
+                "explanation": "\"Possible\" is an adjective and does not need an article, so \"the\" should be removed."
+            },
+            {
+                "start": 18,
+                "end": 19,
+                "error": "possibles'",
+                "correct": "possible",
+                "explanation": "\"Possible\" does not have a plural form and \"possibles\" is not a word. In this sentence, the object of the verb \"becoming\" should be changed to the adjective \"possible.\" "
+            }
+        ],
+        "id": 372,
+        "incorrect sentence": "As the technology increasingly advances , many of things that are regarded as impossible are turning into the 'possibles' .",
+        "correct sentence": "As technology increasingly advances , many of things that were regarded as impossible are becoming possible ."
+    },
+    {
+        "corrections": [
+            {
+                "start": 1,
+                "end": 1,
+                "error": "-",
+                "correct": "the",
+                "explanation": "An internet is any set of interconnected networks. The Internet referred to here is the specific network used by most people. Its specificity is known by the reader, so the definite article \"the\" is used."
+            },
+            {
+                "start": 1,
+                "end": 2,
+                "error": "internet",
+                "correct": "Internet",
+                "explanation": "\"Internet\" is a proper noun, a word that names a unique thing. So \u2018the Internet\u2019 is like the name of a person (e.g. Leonardo) or city (e.g. Tokyo) and needs to be capitalized."
+            },
+            {
+                "start": 2,
+                "end": 3,
+                "error": ",",
+                "correct": "and",
+                "explanation": "The conjunction \"and\" should be used to join two nouns."
+            },
+            {
+                "start": 14,
+                "end": 14,
+                "error": "-",
+                "correct": "an",
+                "explanation": "In this case, the author wants to imply that each respective step is one of many advancements. One step is equal to one unspecified advancement, so the general article \"an\" is used to signify singularity."
+            },
+            {
+                "start": 15,
+                "end": 16,
+                "error": "to",
+                "correct": "for",
+                "explanation": "\"To\" is the wrong preposition to use in this context. Every advancement benefits society, and \"for\" is the correct preposition for this phrase. "
+            },
+            {
+                "start": 18,
+                "end": 19,
+                "error": "the",
+                "correct": "-",
+                "explanation": "Use the society when referring to a specific association e.g., the law society, the consumer society, etc., but when referring to a large number of people definite article \"the\" should be removed. American society, not the American society."
+            }
+        ],
+        "id": 380,
+        "incorrect sentence": "From internet , email to the most powerful surveillance technology , every step is advancement to not only the society but also the world 's achievements .",
+        "correct sentence": "From the Internet and email to the most powerful surveillance technology , every step is an advancement for not only society but also the world 's achievements ."
+    },
+    {
+        "corrections": [
+            {
+                "start": 3,
+                "end": 4,
+                "error": "become",
+                "correct": "-",
+                "explanation": "The verb \"become\" implies a complete change from one thing to another. The action in this sentence refers to a gradual change with varying levels in between, so \"become\" should not be used."
+            },
+            {
+                "start": 3,
+                "end": 4,
+                "error": "become",
+                "correct": "are going",
+                "explanation": "\"Become\" is a present tense verb which implies a change that will occur once. The action implied here is of a gradual change, so the verb should be changed to the present continuous tense \"are going.\" "
+            },
+            {
+                "start": 9,
+                "end": 10,
+                "error": "luxury",
+                "correct": "luxurious",
+                "explanation": "\"Luxury\" is a noun and does not fit here grammatically. The adjective version \"luxurious\" should be used."
+            },
+            {
+                "start": 17,
+                "end": 17,
+                "error": "-",
+                "correct": "advanced",
+                "explanation": "In the incorrect sentence, the adverb \"increasingly\" has no verb or adjective to describe. The idea being discussed here is that technology is becoming better, so the adjective \"advanced\" is used."
+            },
+            {
+                "start": 20,
+                "end": 21,
+                "error": "the",
+                "correct": "-",
+                "explanation": "Use \"the man\" when referring to a specific person, but when referring to a humankind as a group of people, the definite article \"the\" should be removed. The technology discussed here is benefitting people in the general sense of mankind, not a specific one man. "
+            },
+            {
+                "start": 21,
+                "end": 22,
+                "error": "Man",
+                "correct": "man",
+                "explanation": "\"Man\" in the sense of humankind is not a proper noun and should not be capitalized."
+            }
+        ],
+        "id": 388,
+        "incorrect sentence": "People 's lives become from increasingly convenient to almost luxury , thanks to the implementation of increasingly technology available for the Man 's life .",
+        "correct sentence": "People 's lives from increasingly convenient to almost luxurious , thanks to the implementation of increasingly advanced technology available for man 's life ."
+    },
+    {
+        "corrections": [
+            {
+                "start": 0,
+                "end": 2,
+                "error": "However ,",
+                "correct": "Although",
+                "explanation": "\"However\" is used to contrast a previous statement, but here the comparison is being made by two succeeding statements, so \"although\" should be used instead."
+            },
+            {
+                "start": 3,
+                "end": 4,
+                "error": "rapid",
+                "correct": "rapidly",
+                "explanation": "The incorrect sentence uses \"rapid\" but this describes the action \"advancing,\" so it functions as an adverb. Therefore we change the adjective \"rapid\" to its adverb counterpart \"rapidly.\" "
+            },
+            {
+                "start": 4,
+                "end": 5,
+                "error": "advancement",
+                "correct": "advancing",
+                "explanation": "The incorrect sentence uses \"advancement\" but this describes the noun \"technology,\" so it functions as an adjective. Therefore we change the noun \"advancement\" to its adjective counterpart \"advancing.\""
+            },
+            {
+                "start": 20,
+                "end": 21,
+                "error": "the",
+                "correct": "-",
+                "explanation": "The definite article \"the\" is used with specific subjects. The \"threats\" being discussed here are unspecified and plural, so \"the\" should not be used."
+            },
+            {
+                "start": 28,
+                "end": 29,
+                "error": "livings",
+                "correct": "life",
+                "explanation": "In the incorrect sentence, the plural noun \"livings\" is used to refer to different individuals' lives. The author wants to reference our collective lives as one general thing we share, so the singular \"life\" is used."
+            },
+            {
+                "start": 32,
+                "end": 34,
+                "error": "out of",
+                "correct": "beyond",
+                "explanation": "The preposition \"out of\" simply implies a location not within something. \"Beyond\" implies a distance which is further and unknown, so it is more appropriate to use with \"our imagination and estimation.\" \"Beyond someone's imagination\" is more commonly used and idiomatic expression."
+            },
+            {
+                "start": 35,
+                "end": 36,
+                "error": "imaginations",
+                "correct": "imagination",
+                "explanation": "In the incorrect sentence, the plural noun \"imaginations\" is used to refer to that of different individuals. The author wants to reference our collective imagination being one general thing we share as humankind, so the singular is used."
+            },
+            {
+                "start": 37,
+                "end": 38,
+                "error": "estimations",
+                "correct": "estimation",
+                "explanation": "In the incorrect sentence, the plural noun \"estimations\" is used to refer to that of different individuals. The author wants to reference our collective estimation as one thing we share together, so the singular is used."
+            }
+        ],
+        "id": 398,
+        "incorrect sentence": "However , such rapid advancement technology though can be extremely useful to our daily life ; it can also cause the invisible or massive threats to our peaceful livings that can be out of our imaginations and estimations .",
+        "correct sentence": "Although such rapidly advancing technology though can be extremely useful to our daily life ; it can also cause invisible or massive threats to our peaceful life that can be beyond our imagination and estimation ."
+    },
+    {
+        "corrections": [
+            {
+                "start": 2,
+                "end": 3,
+                "error": "the",
+                "correct": "-",
+                "explanation": "The definite article \"the\" is used with specific subjects known to the reader. Here, surveillance technology in general is being discussed, so \"the\" should be removed."
+            },
+            {
+                "start": 8,
+                "end": 9,
+                "error": "manifest",
+                "correct": "ubiquitous",
+                "explanation": "\"Manifest\" means to make something clear or obvious, but it does not convey the idea of being present everywhere. \"Ubiquitous\" means to be present everywhere, which is a more accurate description of the current state of surveillance technology."
+            },
+            {
+                "start": 9,
+                "end": 10,
+                "error": "to",
+                "correct": "-",
+                "explanation": "The incorrect sentence uses the relative pronoun \"wherever.\" This word suggests the meaning \"to whatever place.\" Using \"to\" is unnecessary and should be removed. "
+            }
+        ],
+        "id": 403,
+        "incorrect sentence": "Today , the surveillance technology has become almost manifest to wherever we go .",
+        "correct sentence": "Today , surveillance technology has become almost ubiquitous wherever we go ."
+    },
+    {
+        "corrections": [
+            {
+                "start": 5,
+                "end": 6,
+                "error": "these",
+                "correct": "surveillance",
+                "explanation": "It is unclear what the pronoun \"these\" is referring to. \"Surveillance\" should be used to clarify the subject."
+            },
+            {
+                "start": 6,
+                "end": 7,
+                "error": "are",
+                "correct": "is",
+                "explanation": "The verb \"are\" is used when a subject is plural, such as in the incorrect sentence. However, the general \"surveillance\" is a singular noun and \"are\" must be changed to \"is.\""
+            },
+            {
+                "start": 8,
+                "end": 8,
+                "error": "-",
+                "correct": "everywhere",
+                "explanation": "The adverb \"everywhere\" is used to express the wide range of places which extend beyond the few examples given in the sentence."
+            },
+            {
+                "start": 15,
+                "end": 16,
+                "error": "sectors",
+                "correct": "buildings",
+                "explanation": "A \"sector\" is an area determined by activity. The action \"to install\" requires a specific physical place, so \"buildings\" is used."
+            },
+            {
+                "start": 26,
+                "end": 27,
+                "error": "houses",
+                "correct": "blocks",
+                "explanation": "The term \"blocks\" is used in Singapore to refer to residential buildings that make up a public housing estate. This specific phrase better describes the meaning of multiple buildings as a set, so it is more appropriate to use than \"houses.\"\n\n"
+            },
+            {
+                "start": 30,
+                "end": 31,
+                "error": "from",
+                "correct": "-",
+                "explanation": "The preposition \"from\" was already used to describe the list of places. Using \"from\" again is unnecessary and should be removed for better structure. "
+            },
+            {
+                "start": 33,
+                "end": 34,
+                "error": "to",
+                "correct": "and",
+                "explanation": "\"School canteens\" and \"toilets\" are being grouped together as the same idea, not as different ranges of places, so \"and\" is more appropriate than \"to.\""
+            }
+        ],
+        "id": 412,
+        "incorrect sentence": "Take Singapore for example , these are installed from highly secured places such as Government sectors to working places , from condominiums to housing development board houses , and even from school canteens to toilets !",
+        "correct sentence": "Take Singapore for example , surveillance is installed everywhere from highly secured places such as Government buildings to working places , from condominiums to housing development board blocks , and even school canteens and toilets !"
+    },
+    {
+        "corrections": [
+            {
+                "start": 1,
+                "end": 2,
+                "error": "our",
+                "correct": "-",
+                "explanation": "\"Our\" is used to describe Iphones, etc. It is not needed to describe the applications within those Iphones, etc.Removing it solves redundancy and improves structure."
+            },
+            {
+                "start": 10,
+                "end": 10,
+                "error": "-",
+                "correct": "or",
+                "explanation": "The word \"or\" is needed here to list the two different options \"Iphones or other smartphones\" and \"I-pads\". "
+            },
+            {
+                "start": 11,
+                "end": 12,
+                "error": "I-pad",
+                "correct": "I-pads",
+                "explanation": "The devices listed here are unspecified and uncounted. They are discussed in a general sense as belonging to unspecified people, therefore they are written in the plural form. Likewise, \"I-pad\" should be changed to the plural \"I-pads\" for this reason."
+            },
+            {
+                "start": 14,
+                "end": 15,
+                "error": "revealed",
+                "correct": "reveal",
+                "explanation": "The modal verb \"can\" should be followed by the bare infinitive, so \"revealed\" should be changed to \"reveal.\""
+            },
+            {
+                "start": 16,
+                "end": 17,
+                "error": "locations",
+                "correct": "location",
+                "explanation": "The location being discussed, is by nature, a single location at any given one point in time. Therefore the plural \"locations\" should be changed to the singular \"location.\""
+            }
+        ],
+        "id": 419,
+        "incorrect sentence": "Even our applications in our Iphones or other smartphones , our I-pad can easily revealed our locations .",
+        "correct sentence": "Even applications in our Iphones or other smartphones , or our I-pads can easily reveal our location ."
+    },
+    {
+        "corrections": [
+            {
+                "start": 1,
+                "end": 2,
+                "error": "moves",
+                "correct": "move",
+                "explanation": "The use of \"every\" creates a reference to each of the \"moves\" as the individual. Only the singular can be used with \"every\" so the plural \"moves\" is changed to \"move.\""
+            },
+            {
+                "start": 2,
+                "end": 3,
+                "error": "of",
+                "correct": "-",
+                "explanation": "The phrase \"of us\" is a description which is already implied. It should be removed to improve flow and structure. "
+            },
+            {
+                "start": 3,
+                "end": 4,
+                "error": "us",
+                "correct": "-",
+                "explanation": "The phrase \"of us\" is a description which is already implied. It should be removed to improve flow and structure. "
+            },
+            {
+                "start": 4,
+                "end": 5,
+                "error": "are",
+                "correct": "is",
+                "explanation": "The be verb \"are\" is used when the subject noun is plural. Here the subject noun (move) is singular, so \"are\" should be changed to \"is.\""
+            },
+            {
+                "start": 12,
+                "end": 13,
+                "error": "stepped",
+                "correct": "step",
+                "explanation": "The incorrect sentence uses the past tense \"stepped\" which implies the action has already taken place. The idea being discussed here is general and has not necessarily happened yet, so the present tense \"step\" should be used."
+            },
+            {
+                "start": 15,
+                "end": 15,
+                "error": "-",
+                "correct": "our",
+                "explanation": "The incorrect sentence uses the word \"homes,\" which could imply any home in general. However, the scenario being discussed here describes individual people and their respective actions. The descriptor \"our\" should be added to clarify the common scenario of people leaving their own homes"
+            }
+        ],
+        "id": 427,
+        "incorrect sentence": "Every moves of us are being closely surveilled and followed once we stepped out of homes .",
+        "correct sentence": "Every move is being closely surveilled and followed once we step out of our homes ."
+    },
+    {
+        "corrections": [
+            {
+                "start": 7,
+                "end": 9,
+                "error": "is even",
+                "correct": "has even been",
+                "explanation": "Surveillance technology is receiving the action of invention, so the passive voice is used. The present simple passive voice \"is even invented\" used in the incorrect sentence does not convey that the action is still happening. Because surveillance technology is currently being invented, we should use the perfect present tense of this passive voice by changing \"is\" to \"has been.\""
+            }
+        ],
+        "id": 430,
+        "incorrect sentence": "Now , surveillance technology such as RFID is even invented to track people .",
+        "correct sentence": "Now , surveillance technology such as RFID has even been invented to track people ."
+    },
+    {
+        "corrections": [
+            {
+                "start": 9,
+                "end": 10,
+                "error": "shall",
+                "correct": "should",
+                "explanation": "\"Shall\" is an old-fashioned way of expressing future tense and is not commonly used in modern English. \"Shall\" is too formal. \"Should\" is a more commonly used word to express an opinion. The author believes making RFID available to the public is not beneficial, so \"should not\" is used. "
+            },
+            {
+                "start": 14,
+                "end": 15,
+                "error": "for",
+                "correct": "to",
+                "explanation": "\"For\" is used to indicate a purpose or a reason, while \"to\" is used to indicate the direction or the recipient of an action. In this sentence, the correction is made because the sentence is talking about making powerful devices not easily available to the public, and not for the public."
+            },
+            {
+                "start": 17,
+                "end": 18,
+                "error": "and",
+                "correct": "or",
+                "explanation": "The incorrect sentence uses \"and\" but the ideas of \"not be easily available to the public\" and \"taken for granted\" are two separate predicate phrases not dependent or causal to each other. The author's opinion is that either of these things \"should\" happen, so the conjunction \"or\" is more appropriate."
+            }
+        ],
+        "id": 435,
+        "incorrect sentence": "I agree to a great extent that RFID technology shall not be easily available for the public and taken for granted .",
+        "correct sentence": "I agree to a great extent that RFID technology should not be easily available to the public or taken for granted ."
+    },
+    {
+        "corrections": [
+            {
+                "start": 9,
+                "end": 9,
+                "error": "-",
+                "correct": "how",
+                "explanation": "The lack of the word \"how\" in the incorrect sentence limits the implication of what will be discussed. The author will specifically introduce the ways in which RFID can be utilized. An answer to the question of how will be stated, so the adverb \"how\" should be used."
+            },
+            {
+                "start": 9,
+                "end": 10,
+                "error": "the",
+                "correct": "-",
+                "explanation": "The definite article \"the\" is used with specific subjects known to the reader. RFID technology being discussed covers more than one specific example, so \"the\" should be removed."
+            },
+            {
+                "start": 11,
+                "end": 12,
+                "error": "shall",
+                "correct": "can",
+                "explanation": "The incorrect sentence uses the word \"shall\" which is an old-fashioned way of expressing future tense. The utilization of RFID being discussed is potential and not guaranteed. \"Can\" is a modal auxiliary verb we use to talk about possibility, so \"can\" is more appropriate than \"shall.\""
+            }
+        ],
+        "id": 440,
+        "incorrect sentence": "On the other hand , I will also discuss the RFID shall be utilized for good purposes .",
+        "correct sentence": "On the other hand , I will also discuss how RFID can be utilized for good purposes ."
+    },
+    {
+        "corrections": [
+            {
+                "start": 5,
+                "end": 6,
+                "error": "shall",
+                "correct": "should",
+                "explanation": "\"Shall\" is an old-fashioned way of expressing future tense and is not commonly used in modern English. \"Should\" is a more commonly used word to express an opinion. The author believes making RFID available to the public is not beneficial, so \"should not\" is used. "
+            }
+        ],
+        "id": 443,
+        "incorrect sentence": "I agree that RFID technology shall not be made available to the public for easy abuse and distorted usage .",
+        "correct sentence": "I agree that RFID technology should not be made available to the public for easy abuse and distorted usage ."
+    },
+    {
+        "corrections": [
+            {
+                "start": 19,
+                "end": 21,
+                "error": "fast-living paced",
+                "correct": "fast-paced",
+                "explanation": "\"Fast-living paced\" is not a phrase used in English. The noun being described (life) already implies the meaning \"living,\" so \"living\" is redundant. \"Fast-paced\" is a common phrase and should be used instead. "
+            },
+            {
+                "start": 21,
+                "end": 22,
+                "error": "livings",
+                "correct": "life",
+                "explanation": "The adjective \"fast-paced\" describes a noun. The noun \"living\" means money earned to live on, or a particular type of life. The appropriate noun is \"life,\" which means the experience of people's existence. In the incorrect sentence, the plural noun \"livings\" is used to refer to different individuals' lives. The author wants to reference our collective lives as one general thing we share, so the singular \"life\" is used\"."
+            }
+        ],
+        "id": 448,
+        "incorrect sentence": "Though tracking devices such as the applications in our smartphones these days can add fun and entertainment to our fast-living paced livings , this can be a double-edged sword .",
+        "correct sentence": "Though tracking devices such as the applications in our smartphones these days can add fun and entertainment to our fast-paced life , this can be a double-edged sword ."
+    },
+    {
+        "corrections": [
+            {
+                "start": 1,
+                "end": 2,
+                "error": "revealed",
+                "correct": "reveal",
+                "explanation": "The incorrect sentence uses the past tense \"revealed\" which implies the action has already taken place. The idea being discussed is a general scenario which happens and will happen, so the present tense \"reveal\" should be used."
+            },
+            {
+                "start": 13,
+                "end": 14,
+                "error": ",",
+                "correct": ";",
+                "explanation": "Semicolons are used when linking two independent clauses with a conjunction. Here, the ideas of \"friends to catch up with us\" and \"we can never know...\" are independent but related. The conjunction \"however\" is used, so a semicolon is more appropriate in this sentence than a comma. "
+            },
+            {
+                "start": 15,
+                "end": 15,
+                "error": "-",
+                "correct": ",",
+                "explanation": "\"However\" is a coordinating conjunction contrasting two ideas. A comma should be included when a coordinating conjunction connects two independent clauses. Therefore, a comma is added."
+            }
+        ],
+        "id": 453,
+        "incorrect sentence": "We revealed our locations , for our friends to catch up with us , however we can never know who is watching us out there secretly .",
+        "correct sentence": "We reveal our locations , for our friends to catch up with us ; however , we can never know who is watching us out there secretly ."
+    },
+    {
+        "corrections": [
+            {
+                "start": 1,
+                "end": 1,
+                "error": "-",
+                "correct": "have",
+                "explanation": "In this context, hackers currently invade our computer systems. Their ability to do this shows they are more vicious than before. They were vicious before and become more vicious now still. We should use the perfect present tense because this change is continuous and ongoing. To make the perfect present, we use \"have\" and the past participle of \"become\". Therefore, \"have become\" is used."
+            },
+            {
+                "start": 6,
+                "end": 7,
+                "error": "into",
+                "correct": "-",
+                "explanation": "The verb \"invade\" does not need a preposition to clarify direction. The object \"computer systems\" is understood and so the preposition \"into\" should not be used."
+            },
+            {
+                "start": 9,
+                "end": 10,
+                "error": "system",
+                "correct": "systems",
+                "explanation": "The system being discussed is not a specific single system, but rather multiple peoples' respective systems. Therefore an \"s\" should be added to indicate uncountable, unspecific systems in the plural. "
+            },
+            {
+                "start": 10,
+                "end": 12,
+                "error": ", now",
+                "correct": ". Now",
+                "explanation": "Punctuation should be used here to separate independent ideas and add clarity, so a period is more appropriate than a comma. "
+            },
+            {
+                "start": 12,
+                "end": 13,
+                "error": "with",
+                "correct": "-",
+                "explanation": "\"Radio-frequency tracking devices\" is the subject and does not need a preposition, so \"with\" should be removed to improve structure and clarity."
+            },
+            {
+                "start": 15,
+                "end": 16,
+                "error": "device",
+                "correct": "devices",
+                "explanation": "Multiple devices are being discussed, so an \"s\" should be added to change the singular \"device\" to plural \"devices.\""
+            },
+            {
+                "start": 16,
+                "end": 18,
+                "error": ", this",
+                "correct": "-",
+                "explanation": "\"Radio-frequency tracking devices\" is the subject, and the predicate does not need a pronoun, so \"this\" should be removed to improve structure and clarity."
+            }
+        ],
+        "id": 462,
+        "incorrect sentence": "Hackers become increasingly vicious , invading into our computer system , now with radio-frequency tracking device , this may fall into inappropriate hands for the wrong reasons .",
+        "correct sentence": "Hackers have become increasingly vicious , invading our computer systems . Now radio-frequency tracking devices may fall into inappropriate hands for the wrong reasons ."
+    },
+    {
+        "corrections": [
+            {
+                "start": 1,
+                "end": 2,
+                "error": "moves",
+                "correct": "move",
+                "explanation": "The use of \"every\" creates a reference to each of the \"moves\" as the individual. Only the singular can be used with \"every\" so the plural \"moves\" is changed to \"move.\""
+            },
+            {
+                "start": 2,
+                "end": 3,
+                "error": "of",
+                "correct": "-",
+                "explanation": "The phrase \"of us\" is a description which is already implied. It should be removed to improve flow and structure. "
+            },
+            {
+                "start": 3,
+                "end": 4,
+                "error": "us",
+                "correct": "-",
+                "explanation": "The phrase \"of us\" is a description which is already implied. It should be removed to improve flow and structure. "
+            },
+            {
+                "start": 4,
+                "end": 5,
+                "error": "are",
+                "correct": "is",
+                "explanation": "The be verb \"are\" is used when the subject noun is plural. Here the subject noun (move) is singular, so \"are\" should be changed to \"is.\""
+            }
+        ],
+        "id": 468,
+        "incorrect sentence": "Every moves of us are easily tracked .",
+        "correct sentence": "Every move is easily tracked ."
+    },
+    {
+        "corrections": [
+            {
+                "start": 9,
+                "end": 11,
+                "error": "are there",
+                "correct": "there are",
+                "explanation": "When using \"no matter how\" to introduce a dependent clause, the usual subject-verb order should be inverted, so it's correct as written."
+            },
+            {
+                "start": 33,
+                "end": 34,
+                "error": "system",
+                "correct": "systems",
+                "explanation": "The system being discussed is not a specific single system, but rather multiple systems. Therefore an \"s\" should be added to indicate uncountable, unspecific systems in the plural. "
+            }
+        ],
+        "id": 473,
+        "incorrect sentence": "No matter how good and how many security systems are there for us , the hackers are also increasingly improving their skills in terms of hacking and breaking the codes of the security system .",
+        "correct sentence": "No matter how good and how many security systems there are for us , the hackers are also increasingly improving their skills in terms of hacking and breaking the codes of the security systems ."
+    },
+    {
+        "corrections": [
+            {
+                "start": 11,
+                "end": 14,
+                "error": "when comes to",
+                "correct": "with",
+                "explanation": "The preposition \"with\" is used to denote the additional presence of something, or in what way someone does something. In this case, \"When comes to\" is not a common phrase. It should be changed to \"with\" for better structure and clarity. In this context, RFID's are used alongside appropriate handling."
+            }
+        ],
+        "id": 476,
+        "incorrect sentence": "On the other hand , I think RFID can be useful when comes to appropriate handling and usage .",
+        "correct sentence": "On the other hand , I think RFID can be useful with appropriate handling and usage ."
+    },
+    {
+        "corrections": [
+            {
+                "start": 3,
+                "end": 4,
+                "error": "this",
+                "correct": "it",
+                "explanation": "The pronoun \"this\" is used to refer to a particular item in front of us. The personal pronoun \"it\" refers to a noun which is an object. The subject of this sentence is the previously stated RFID technology, which is an object not in front of us, \"this\" should be changed to \"it.\""
+            },
+            {
+                "start": 13,
+                "end": 13,
+                "error": "-",
+                "correct": "the",
+                "explanation": "Sometimes the definite article \"the\" is used when there is only one in that context. The police force for each respective town or city is the single force, so \"the\" should be added. "
+            }
+        ],
+        "id": 480,
+        "incorrect sentence": "For example , this can be a very beneficial and useful device for police force to track crime suspects and terrorists for their movements , or contributing to more leads for solving a case .",
+        "correct sentence": "For example , it can be a very beneficial and useful device for the police force to track crime suspects and terrorists for their movements , or contributing to more leads for solving a case ."
+    },
+    {
+        "corrections": [
+            {
+                "start": 9,
+                "end": 10,
+                "error": "contributed",
+                "correct": "contribute",
+                "explanation": "The modal verb \"can\" should be followed by the bare infinitive verb, so \"contributed\" should be changed to \"contribute.\""
+            }
+        ],
+        "id": 483,
+        "incorrect sentence": "Additionally , if appropriately used , this device can contributed to our scientific findings and research .",
+        "correct sentence": "Additionally , if appropriately used , this device can contribute to our scientific findings and research ."
+    },
+    {
+        "corrections": [
+            {
+                "start": 8,
+                "end": 9,
+                "error": "input",
+                "correct": "implant",
+                "explanation": "\"Implant\" means to insert into an object, especially a body or tissue. The object discussed here is \"animals and birds,\" so \"implant\" is more appropriate to use than \"input.\""
+            },
+            {
+                "start": 11,
+                "end": 12,
+                "error": "implant",
+                "correct": "-",
+                "explanation": "The verb \"implant\" is already used once and not needed again. Removing it improves structure and clarity."
+            },
+            {
+                "start": 13,
+                "end": 15,
+                "error": "an animal",
+                "correct": "animals",
+                "explanation": "The incorrect sentence uses the singular noun \"animal.\" The context implies that implanting the device will occur with multiple animals, so it is changed to its plural \"animals.\""
+            },
+            {
+                "start": 17,
+                "end": 18,
+                "error": "species",
+                "correct": "-",
+                "explanation": "The incorrect sentence uses the word \"species\" referencing specific birds. The context of the sentence does not imply the distinguishment between species, so \"species\" should be removed to simply refer to birds in general."
+            },
+            {
+                "start": 19,
+                "end": 21,
+                "error": "for us",
+                "correct": "-",
+                "explanation": "The incorrect sentence uses \"for us,\" but the subject \"we\" is already stated in the previous clause. \"For us\" should be removed to avoid redundancy and improve structure."
+            },
+            {
+                "start": 27,
+                "end": 40,
+                "error": "relating to our human research that can bring us to a new regime",
+                "correct": "-",
+                "explanation": "\"Relating to our...\" is information which is already understood by context. It should be removed to improve structure and clarity. "
+            }
+        ],
+        "id": 491,
+        "incorrect sentence": "In this , I mean that we can input this device implant into an animal or birds species , for us to track their movements and actions relating to our human research that can bring us to a new regime .",
+        "correct sentence": "In this , I mean that we can implant this device into animals or birds , to track their movements and actions ."
+    },
+    {
+        "corrections": [
+            {
+                "start": 3,
+                "end": 4,
+                "error": "our",
+                "correct": "-",
+                "explanation": "The incorrect sentence uses the adjective \"our\" to describe \"mankind.\" However, \"mankind\" implies reference to all of us as humans. A descriptor is not needed, so \"our\" should be removed."
+            }
+        ],
+        "id": 495,
+        "incorrect sentence": "It can benefit our mankind if appropriately used .",
+        "correct sentence": "It can benefit mankind if appropriately used ."
+    },
+    {
+        "corrections": [
+            {
+                "start": 6,
+                "end": 7,
+                "error": "device",
+                "correct": "devices",
+                "explanation": "The incorrect sentence uses the singular noun \"device.\" The context here involves multiple devices, not only one. Therefore, \"device\" should be changed to the plural \"devices.\""
+            },
+            {
+                "start": 7,
+                "end": 8,
+                "error": "shall",
+                "correct": "should",
+                "explanation": "\"Shall\" is an old-fashioned way of expressing future tense and is not commonly used in modern English. \"Should\" is a more commonly used word to express an opinion. The author believes that making the devices available to the public is not beneficial, so \"should not\" is used. "
+            },
+            {
+                "start": 13,
+                "end": 14,
+                "error": "for",
+                "correct": "to",
+                "explanation": "\"For\" is used to indicate a purpose or a reason, while \"to\" is used to indicate the direction or the recipient of an action. In this sentence, the correction is made because the sentence is talking about making powerful devices not easily available to the public, and not for the public."
+            }
+        ],
+        "id": 500,
+        "incorrect sentence": "However , I think such powerful device shall not be made easily available for the public or fall into the hands of 'ill-intentioned ' individuals .",
+        "correct sentence": "However , I think such powerful devices should not be made easily available to the public or fall into the hands of 'ill-intentioned ' individuals ."
+    },
+    {
+        "corrections": [
+            {
+                "start": 7,
+                "end": 10,
+                "error": "bring threats to",
+                "correct": "threaten",
+                "explanation": "In this context, \"threaten\" sounds more natural and is a clearer and more concise way of conveying the intended meaning of the sentence, to express the potential harm or danger that may arise."
+            }
+        ],
+        "id": 503,
+        "incorrect sentence": "This will lead to more crimes and bring threats to our privacy .",
+        "correct sentence": "This will lead to more crimes and threaten our privacy ."
+    },
+    {
+        "corrections": [
+            {
+                "start": 5,
+                "end": 6,
+                "error": "forms",
+                "correct": "places",
+                "explanation": "The incorrect sentence uses \"forms.\" The context implies (examples given are of ) locations, so \"forms\" should be changed to \"places.\""
+            }
+        ],
+        "id": 506,
+        "incorrect sentence": "RFID is used in many forms for example , transportation , homes and even offices .",
+        "correct sentence": "RFID is used in many places for example , transportation , homes and even offices ."
+    },
+    {
+        "corrections": [
+            {
+                "start": 1,
+                "end": 2,
+                "error": "these",
+                "correct": "the",
+                "explanation": "The incorrect sentence uses \"these\" which implies a specific context (what years) is known to the reader. \"Over the years\" is a common phrase which is more appropriate to use the this context of unspecified years. "
+            },
+            {
+                "start": 5,
+                "end": 6,
+                "error": "had",
+                "correct": "has",
+                "explanation": "The context here implies that humans were and still are presently helped, so the present perfect tense should be used to show continuousness. The present perfect tense is formed by using \"has\" and the past participle, so \"had\" is changed to \"has.\""
+            },
+            {
+                "start": 6,
+                "end": 7,
+                "error": "help",
+                "correct": "helped",
+                "explanation": "The context here implies that humans were and still are presently helped, so the present perfect tense should be used to show continuousness. The present perfect tense is formed by using the past participle, so \"help\" is changed to \"helped.\""
+            },
+            {
+                "start": 10,
+                "end": 11,
+                "error": "the",
+                "correct": "-",
+                "explanation": "\"Accessibility\" is general and unspecific, so the definite article \"the\" should be removed. "
+            },
+            {
+                "start": 14,
+                "end": 15,
+                "error": "forms",
+                "correct": "form",
+                "explanation": "Only one form is being discussed here (cards,) so the plural \"forms\" should be changed to the singular \"form.\""
+            }
+        ],
+        "id": 513,
+        "incorrect sentence": "Over these years , it had help humans to improve the accessibility in the forms of cards to gain access to certain places .",
+        "correct sentence": "Over the years , it has helped humans to improve accessibility in the form of cards to gain access to certain places ."
+    },
+    {
+        "corrections": [
+            {
+                "start": 4,
+                "end": 5,
+                "error": "on",
+                "correct": "in",
+                "explanation": "\"On\" is not the correct preposition to use in this context. The use of \"on\" would imply a direct action onto a specific object. \"In\" will imply that the use is within the context of \"areas,\" so \"in\" is the more appropriate preposition. "
+            },
+            {
+                "start": 14,
+                "end": 14,
+                "error": "-",
+                "correct": "a",
+                "explanation": "The indefinite article \"a\" should be added to imply that the singular noun \"human implant\" is not the exclusive use, but one of many possible uses."
+            },
+            {
+                "start": 19,
+                "end": 21,
+                "error": "form of",
+                "correct": "-",
+                "explanation": "There is no explanation needed to describe the word \"product.\" The use of \"form of\" in the incorrect sentence is confusing and should be removed to improve clarity."
+            },
+            {
+                "start": 21,
+                "end": 22,
+                "error": "products",
+                "correct": "product",
+                "explanation": "In this sentence, the pronoun \"it\" represents a singular noun (RFID). The respective thing it is being used is also singular, so the \"products\" should be changed to \"product.\""
+            }
+        ],
+        "id": 519,
+        "incorrect sentence": "Other than using it on these areas , it is also been used as human implant or as a form of products .",
+        "correct sentence": "Other than using it in these areas , it is also been used as a human implant or as a product ."
+    },
+    {
+        "corrections": [
+            {
+                "start": 4,
+                "end": 5,
+                "error": "are",
+                "correct": "have",
+                "explanation": "The perfect present tense should be used to show that the action of using implants and products is currently still happening. To create the perfect present, we use \"have\" and the past participle \"used.\" "
+            }
+        ],
+        "id": 522,
+        "incorrect sentence": "These implants and products are also been used as surveillance tools .",
+        "correct sentence": "These implants and products have also been used as surveillance tools ."
+    },
+    {
+        "corrections": [
+            {
+                "start": 0,
+                "end": 3,
+                "error": "For using as",
+                "correct": "As",
+                "explanation": "The use of \"as\" is sufficient in meaning. \"For using\" is unnecessary and confusing, so it should be removed."
+            }
+        ],
+        "id": 525,
+        "incorrect sentence": "For using as a surveillance tool , it could also be used in terms of surveys and statistics .",
+        "correct sentence": "As a surveillance tool , it could also be used in terms of surveys and statistics ."
+    },
+    {
+        "corrections": [
+            {
+                "start": 9,
+                "end": 9,
+                "error": "-",
+                "correct": "an",
+                "explanation": "In this context, \"more of\" is an idiom used to say that one way of describing a person or thing is better or more accurate than another. The noun \"implant\" needs a quantitative article, so \"an\" is added."
+            },
+            {
+                "start": 15,
+                "end": 16,
+                "error": "the",
+                "correct": "-",
+                "explanation": "The definite article \"the\" is used with nouns which are specific and known to the reader. \"Basic medical research\" is a general term which is not known to the reader, so \"the\" should be removed."
+            }
+        ],
+        "id": 529,
+        "incorrect sentence": "There are also medical tools that are more of implant into the human body for the basic medical research .",
+        "correct sentence": "There are also medical tools that are more of an implant into the human body for basic medical research ."
+    },
+    {
+        "corrections": [
+            {
+                "start": 6,
+                "end": 7,
+                "error": "chip",
+                "correct": "chips",
+                "explanation": "In this context, multiple RFID chips were used, so the singular \"chip\" must be changed to the plural \"chips.\""
+            },
+            {
+                "start": 10,
+                "end": 11,
+                "error": "were",
+                "correct": "-",
+                "explanation": "None"
+            },
+            {
+                "start": 10,
+                "end": 11,
+                "error": "were",
+                "correct": "is",
+                "explanation": "The incorrect sentence uses the past tense \"were,\" which implies the action has already happened. \"Still a common sight\" is present and has not ended, so \"were\" should be changed to the present tense \"is.\""
+            },
+            {
+                "start": 19,
+                "end": 19,
+                "error": "-",
+                "correct": "becaue",
+                "explanation": "\"Because of\" is a two word preposition meaning \"as a result of.\" This is used here to identify the use of RFID chips in tracking clothes as a result of the huge number of clothing needed to be tracked. The use of \"for\" in the incorrect sentence does not convey this, so \"because of\" is more suitable. "
+            },
+            {
+                "start": 19,
+                "end": 20,
+                "error": "for",
+                "correct": "of",
+                "explanation": "\"Because of\" is a two word preposition meaning \"as a result of.\" This is used here to identify the use of RFID chips in tracking clothes as a result of the huge number of clothing needed to be tracked. The use of \"for\" in the incorrect sentence does not convey this, so \"because of\" is more suitable. "
+            },
+            {
+                "start": 30,
+                "end": 34,
+                "error": "the location of it",
+                "correct": "-",
+                "explanation": "The incorrect sentence uses \"the location of it,\" but this is implied with the use of \"track,\" so it should be removed for brevity and better structure."
+            }
+        ],
+        "id": 537,
+        "incorrect sentence": "Moreover , the use of RFID chip in tracking clothes were also very common sight in the service industry for the huge number of clothing to be identified and tracked the location of it at any one point .",
+        "correct sentence": "Moreover , the use of RFID chips in tracking clothes also very common sight in the service industry becaue of the huge number of clothing to be identified and tracked at any one point ."
+    },
+    {
+        "corrections": [
+            {
+                "start": 0,
+                "end": 1,
+                "error": "When",
+                "correct": "As",
+                "explanation": "\"As\" is used because it implies causation and a sense of continuous time. The use of \"when\" here implies single completed events, so it should be changed to \"as.\""
+            },
+            {
+                "start": 2,
+                "end": 3,
+                "error": "had",
+                "correct": "has",
+                "explanation": "\"Had\" is past tense and implies the action is completed. The use of RFID in transportation is still currently happening, so \"had\" is changed to the present tense \"has.\""
+            },
+            {
+                "start": 6,
+                "end": 7,
+                "error": "the",
+                "correct": "-",
+                "explanation": "The definite article \"the\" is used with a single specific noun. Transportation discussed here is general and does not need the article."
+            },
+            {
+                "start": 8,
+                "end": 9,
+                "error": "needs",
+                "correct": "-",
+                "explanation": "\"Transportation\" is stated here as a general category. It is an area that the action is taking place. \"Needs\" is more a specific topic that is not contextual here. "
+            },
+            {
+                "start": 25,
+                "end": 26,
+                "error": "the",
+                "correct": "-",
+                "explanation": "The definite article \"the\" is used with a single specific noun. Transportation discussed here is general and does not need the article."
+            },
+            {
+                "start": 28,
+                "end": 29,
+                "error": "had",
+                "correct": "has",
+                "explanation": "\"Had\" is past tense and implies the action is completed. The \"ability to gain...\" is still currently happening, so \"had\" is changed to the present tense \"has.\""
+            }
+        ],
+        "id": 545,
+        "incorrect sentence": "When RFID had been used in the transportation needs in the form of ez-link cards , the ability to gain faster and easier access of the transportation needs had been seen over the years .",
+        "correct sentence": "As RFID has been used in transportation in the form of ez-link cards , the ability to gain faster and easier access of transportation needs has been seen over the years ."
+    },
+    {
+        "corrections": [
+            {
+                "start": 1,
+                "end": 2,
+                "error": "from",
+                "correct": "form",
+                "explanation": "\"From\" is a preposition which serves no purpose here. It appears to be a misspelling of the noun \"form,\" which fits the context."
+            },
+            {
+                "start": 2,
+                "end": 4,
+                "error": "also can",
+                "correct": "can also",
+                "explanation": "The placement of \"also\" after \"can\" here makes it more clear that \"form\" has many things it can be used for."
+            },
+            {
+                "start": 10,
+                "end": 11,
+                "error": "where",
+                "correct": "because",
+                "explanation": "The conjunction \"because\" is added to show causation. The places being recorded is the cause for RFID being used as a tracking device."
+            }
+        ],
+        "id": 550,
+        "incorrect sentence": "This from also can be used as a tracking device where the places a person visited for the past few trips were all recorded by the system and the cards .",
+        "correct sentence": "This form can also be used as a tracking device because the places a person visited for the past few trips were all recorded by the system and the cards ."
+    },
+    {
+        "corrections": [
+            {
+                "start": 4,
+                "end": 5,
+                "error": "been",
+                "correct": "being",
+                "explanation": "The keeping of information is an ongoing action which has not finished, so the continuous form \"being,\" should be used."
+            },
+            {
+                "start": 5,
+                "end": 6,
+                "error": "well",
+                "correct": "well-",
+                "explanation": "\"Well-kept\" is a compound expression listed in the dictionary with a hyphen, so a hyphen is added."
+            },
+            {
+                "start": 6,
+                "end": 7,
+                "error": "keep",
+                "correct": "kept",
+                "explanation": "\"Well-kept\" is a compound expression. The action here is passive, so \"keep\" should be changed to its past participle \"kept.\""
+            },
+            {
+                "start": 10,
+                "end": 11,
+                "error": "where",
+                "correct": "because",
+                "explanation": "The conjunction \"because\" is added to show causation. The proper encryption of data is the evidence that information is being \"well-kept.\""
+            },
+            {
+                "start": 16,
+                "end": 17,
+                "error": "used",
+                "correct": "use",
+                "explanation": "The use of data here is not a finished action, so the past tense \"used\" should be changed to \"use.\""
+            },
+            {
+                "start": 19,
+                "end": 20,
+                "error": "the",
+                "correct": "its",
+                "explanation": "The possessive \"its\" is used to show that \"proper form\" refers to the form of \"information\" in particular."
+            }
+        ],
+        "id": 561,
+        "incorrect sentence": "As this information is been well keep by the operators where they encrypt the data and used it in the proper form .",
+        "correct sentence": "As this information is being well- kept by the operators because they encrypt the data and use it in its proper form ."
+    },
+    {
+        "corrections": [
+            {
+                "start": 3,
+                "end": 6,
+                "error": "the chances of",
+                "correct": "-",
+                "explanation": "The incorrect sentence uses both the verb \"prevents\" and the phrase \"the chances of.\" The verb \"prevents\" implies a reduction of chance or the possibility of, so the use of \"chances of\" becomes redundant."
+            },
+            {
+                "start": 8,
+                "end": 9,
+                "error": "to",
+                "correct": "from",
+                "explanation": "The preposition \"to\" does not indicate the proper action of \"prevents.\" Using \"from\" shows the proper relationship between the action \"prevent\" and the object \"hackers.\""
+            },
+            {
+                "start": 9,
+                "end": 10,
+                "error": "get",
+                "correct": "getting",
+                "explanation": "The phrasal verb \"prevent from\" requires a noun for its object, so \"get\" should be changed to the gerund \"getting.\" "
+            },
+            {
+                "start": 13,
+                "end": 14,
+                "error": "were",
+                "correct": "was",
+                "explanation": "\"Information\" is an uncountable noun only used in the singular, so the verb \"were\" should be changed to the corresponding singular paired \"was.\""
+            },
+            {
+                "start": 17,
+                "end": 18,
+                "error": "usages",
+                "correct": "usage",
+                "explanation": "\"Usage\" (singular) is more commonly used."
+            },
+            {
+                "start": 18,
+                "end": 20,
+                "error": "are misused",
+                "correct": "-",
+                "explanation": "\"Unlawful\" implies sufficient meaning, so \"are misused\" is removed for improved structure."
+            },
+            {
+                "start": 22,
+                "end": 23,
+                "error": "usages",
+                "correct": "usage",
+                "explanation": "\"Usage\" (singular) is more commonly used."
+            }
+        ],
+        "id": 570,
+        "incorrect sentence": "This also prevents the chances of normal hackers to get this information that were recorded for proper usages are misused for unlawful usages .",
+        "correct sentence": "This also prevents normal hackers from getting this information that was recorded for proper usage for unlawful usage ."
+    }
+]
