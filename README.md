@@ -3,10 +3,10 @@
 Code for the paper: "Controlled Generation with Prompt Insertion for Natural Language Explanations in Grammatical Error Correction" (arXiv 2023).
 If you use any part of this work, make sure you include the following citation:
 ```
-@inproceedings{Kaneko:eacl:2024,
+@inproceedings{Kaneko:lrec-colint:2024,
     title={Controlled Generation with Prompt Insertion for Natural Language Explanations in Grammatical Error Correction},
     author={Masahiro Kaneko and Naoaki Okazaki},
-    booktitle={EACL},
+    booktitle={LREC-COLING},
     year={2024}
 }
 ```
